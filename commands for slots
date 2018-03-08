@@ -1,0 +1,1 @@
+python SequenceTagger.py --train train.iob --sgdtype adam --arch blstm --iter_per_epoch 100 --record_epoch 10 --dropout True --dropout_ratio 0.25 --hidden_size 50 --embedding_size 50 --test train.iob
