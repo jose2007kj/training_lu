@@ -1,7 +1,4 @@
-﻿"""
-RNN-based slot filling
-by V. Chen, D. Hakkani-Tur & G. Tur
-"""
+﻿
 
 import os, sys, json
 import numpy as np 
@@ -19,9 +16,11 @@ from keras.layers.recurrent import SimpleRNN, GRU, LSTM
 from keras.layers.wrappers import TimeDistributed
 from keras.optimizers import SGD, RMSprop, Adagrad, Adadelta, Adam, Adamax
 from keras.constraints import maxnorm, nonneg
+from keras.callbacks import ModelCheckpoint
 from keras import backend as K
 from keras.callbacks import EarlyStopping, ModelCheckpoint
 from History import LossHistory
+import matplotlib.pyplot as plt #may testing
 
 class KerasModel( object ):
 
@@ -68,6 +67,7 @@ class KerasModel( object ):
 		self.output_att = argparams['output_att']
 		self.sembedding_size = self.embedding_size
 		self.model_arch = self.arch
+		self.history = {}
 		if self.validation_file is None:
 			self.nodev = True
 		else:
@@ -191,7 +191,7 @@ class KerasModel( object ):
 				tagger = Dropout(self.dropout_ratio)(tagger)
 			prediction = TimeDistributed(Dense(self.output_vocab_size, activation='softmax'))(tagger)
 			self.model = Model(input=raw_current, output=prediction)
-			self.model.compile(loss='categorical_crossentropy', optimizer=opt_func)
+			self.model.compile(loss='categorical_crossentropy', optimizer=opt_func, metrics=['accuracy'])
 
 		# 2-Stacked Layered RNN (LSTM, SimpleRNN, GRU)
 		elif self.arch == '2lstm' or self.arch == '2rnn' or self.arch == '2gru':
@@ -599,7 +599,7 @@ class KerasModel( object ):
 						fo.write("%lf\n" %loss)
 					fo.close()
 				print("model.fit=====1")
-				model.save('train.h5')
+				self.model.save('train.h5')
 			else:
 				print (";;;;;;;",self.set_batch)
 				if self.set_batch:
@@ -613,7 +613,10 @@ class KerasModel( object ):
 							self.model.train_on_batch(single_batch_train, y_train[cur:cur+num+1])
 						cur += num + 1
 				else:
-					self.model.fit(batch_train, y_train, batch_size=self.batch_size, nb_epoch=self.max_epochs, verbose=1, shuffle=self.shuffle)
+					filepath="weights-improvement-{epoch:02d}-{val_acc:.2f}.hdf5"
+					checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=1, save_best_only=True, mode='max')
+					callbacks_list = [checkpoint]
+					self.history= self.model.fit(batch_train, y_train,validation_split=0.33, batch_size=self.batch_size, nb_epoch=self.max_epochs,callbacks=callbacks_list, verbose=1, shuffle=self.shuffle)
 					print("model.fit=====2")
 					self.model.save('train.h5')
 	def run(self):
@@ -703,7 +706,32 @@ class KerasModel( object ):
 			self.max_epochs = self.record_epoch
 			for i in range(1, total_epochs / self.record_epoch + 1):
 				num_iter = i * self.record_epoch
+				self.history = {}
+				print"iteration",i
 				self.train(H_train=H_train, X_train=X_train, y_train=y_train, H_dev=H_dev, X_dev=X_dev, y_dev=y_dev)
+				if i%10 == 0:
+					# list all data in history
+					print(self.history.history.keys())
+					# summarize history for accuracy
+					plt.plot(self.history.history['acc'])
+					plt.plot(self.history.history['val_acc'])
+					plt.title('model accuracy')
+					plt.ylabel('accuracy')
+					plt.xlabel('epoch')
+					plt.legend(['train', 'test'], loc='upper left')
+					plt.savefig('acc_result_'+str(i)+'_.png')
+					plt.clf()
+					# plt.show()
+					# summarize history for loss
+					plt.plot(self.history.history['loss'])
+					plt.plot(self.history.history['val_loss'])
+					plt.title('model loss')
+					plt.ylabel('loss')
+					plt.xlabel('epoch')
+					plt.legend(['train', 'test'], loc='upper left')
+					plt.savefig('loss_result_'+str(i)+'_.png')
+					plt.clf()
+					# plt.show()
 				if not self.nodev:
 					self.test(H=H_dev, X=X_dev, data_type='dev.'+str(num_iter),tagDict=trainData.dataSet['id2tag'], pad_data=pad_X_dev)
 				self.test(H=H_test, X=X_test, data_type='test.'+str(num_iter), tagDict=trainData.dataSet['id2tag'], pad_data=pad_X_test)
@@ -712,6 +740,8 @@ class KerasModel( object ):
 				# whole_path = self.mdl_path + '/' + self.model_arch + '.' + str(num_iter) + '.h5'
 				sys.stderr.write("Writing model weight to %s...\n" %whole_path)
 				self.model.save_weights(whole_path, overwrite=True)
+				kj_path = "model_"+self.model_arch + '.' + str(num_iter) + '.h5'
+				self.model.save(kj_path)
 		else:
 			self.train(H_train=H_train, X_train=X_train, y_train=y_train, H_dev=H_dev, X_dev=X_dev, y_dev=y_dev)
 			if not self.nodev:

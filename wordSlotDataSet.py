@@ -4,6 +4,7 @@ dataSet Object
 by D. Hakkani-Tur
 modified by V. Chen
 """
+import json
 import re
 import numpy as np
 
@@ -194,6 +195,20 @@ def readData(dataFile):
 		utt_count += 1
 		utterances.append(temp_utt)
 		tags.append(temp_tags)
+
+		with open('wordDictionary.json', 'w') as outfile:
+		    json.dump(word2id, outfile)
+
+		with open('tagDictionary.json', 'w') as outfile:
+		    json.dump(tag2id, outfile)
+
+		with open('id2word.json', 'w') as outfile:
+		    json.dump(id2word, outfile)
+
+		with open('id2tag.json', 'w') as outfile:
+		    json.dump(id2tag, outfile)
+
+
 
 	data = {'start': starts, 'startid': startid, 'utterances': utterances, 'tags': tags, 'uttCount': utt_count, 'id2word':id2word, 'id2tag':id2tag, 'wordVocabSize' : word_vocab_index, 'tagVocabSize': tag_vocab_index, 'word2id': word2id, 'tag2id':tag2id}
 	return data

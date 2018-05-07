@@ -1,0 +1,1113 @@
+BOS please get me all the way to chicago EOS	O O O O O O O O B_inform_dst_city O
+BOS can you get me to chicago from rosario like… soon dont care the price or when - they can deal lol EOS	O B_inform_str_date O O O O B_inform_dst_city O B_inform_or_city O O O O O O O O O O O O O O
+BOS what is the hotel like tho room service free breakfast EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O B_request_breakfast I_request_breakfast O
+BOS is it near a mall tho… like with a food court EOS	O O O O O B_request_mall O O O O O O O
+BOS lets do it EOS	O O O O O
+BOS thanks boo mwah EOS	O B_thankyou O O O
+BOS good i have 3 days off and wanna leave san antonio i only have 400 bucks so ill prob have to take a bus but if u can find me a flight that'd be sweet as hell i'll go wherever whenever EOS	O B_inform_dst_city O O B_inform_max_duration O O O O O B_inform_or_city I_inform_or_city O O O B_inform_budget O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS yupp EOS	O O O
+BOS calgary is like in another country so i would be down for that whats the hotel like EOS	O B_switch_frame_dst_city O O O O O O O O O O O O O O O O O
+BOS how does denver hold up to that EOS	O O O B_switch_frame_dst_city O O O O O
+BOS book calgary please EOS	O O B_switch_frame_dst_city O O
+BOS dude business thats ballin EOS	O O B_switch_frame_seat O O O
+BOS is it possible to get from alexandria to fukuoka for 3200 EOS	O O O O O O O B_inform_or_city O B_inform_dst_city O B_inform_budget O
+BOS no - there will be two adults and one child in total EOS	O O O O O O B_inform_n_adults O O B_inform_n_children O O O O
+BOS surely you can get us to indianapolis EOS	O O O O O O O B_inform_dst_city O
+BOS great price for a two week stay what’s the hotel like though EOS	O O O O O B_switch_frame_duration I_switch_frame_duration O O O O O O O
+BOS lovely - beachside is ideal for the young one may i ask what the rating is EOS	O O O O O O O O O O O O O O O O O O
+BOS what is the official rating though&gt; EOS	O O O O O O O O
+BOS that’s fine ; i am but a mere writer after all and the length of stay certainly trumps the quality of residence please book it EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS thank you kindly EOS	O B_thankyou O O O
+BOS i need to get to madrid please - quickly EOS	O O O O O O B_inform_dst_city O O O O
+BOS and i need to stay in the heart of the city near restaurants salvador EOS	O O O O O O O O O O O O O O B_inform_or_city O
+BOS ah ok - yes there are rarely notable cathedrals in the suburbs should be sufficient and are you able to book 8 adults and one child there for 2900 dollars EOS	O O O O O O O O O B_switch_frame_cathedral O O O O O O O O O O O O B_inform_n_adults O O B_inform_n_children O O O B_inform_budget I_inform_budget O
+BOS in that case my lawyers will have to book on there own - one child and one adult EOS	O O O O O O O O O O O O O O B_inform_n_children O O O O O
+BOS how much would it be then EOS	O O O O O O O O
+BOS ok that's fine i will go ahead with booking EOS	O O B_switch_frame_ref_anaphora O O O O O O O O
+BOS boy oh boy i got these 3 clients and these guys gotta have the best of the best don't ask me why so what do you have in dublin that will impress the fellas EOS	O O O O O O I_inform_category B_inform_n_adults I_inform_n_adults O O O O O O B_inform_category I_inform_category O I_inform_category O O O O O O O O O O B_inform_dst_city O O O O O O
+BOS soon after september 10th EOS	O O O B_inform_str_date I_inform_str_date O
+BOS so stuttgart to dublin and if the hotels suck check valencia EOS	O O B_inform_or_city O O O O O O O O B_inform_dst_city O
+BOS heavens to betsy you've done it again you've found me a nice place tell me more EOS	O O O O O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O
+BOS just to make sure what do you have in sao paulo EOS	O O O O O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS let's book valencia pleasure doing business with you EOS	O O O B_switch_frame_dst_city O O O O O O
+BOS from 22nd-28nd of september i just wanna flee town and forget about work family my mortgage responsibilities my alcoholism etc i am thinking ciudad juarez from dalle EOS	O O B_inform_str_date I_inform_end_date I_inform_end_date O O O O O O O O O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O B_inform_or_city O
+BOS yeah from dallas EOS	O O O B_inform_or_city O
+BOS give me the details EOS	O O O O B_moreinfo O
+BOS on the beach EOS	O O O B_request_beach O
+BOS whatcha got in punta cana EOS	O O O O B_inform_dst_city I_inform_dst_city O
+BOS check mexico city EOS	O O B_inform_dst_city I_inform_dst_city O
+BOS free breaky EOS	O O O O
+BOS ill go for ciudad juarez EOS	O O O O B_switch_frame_dst_city I_switch_frame_dst_city O
+BOS san juan to puebla for under 5500 i will go whenever and am travelling alone ok EOS	O B_inform_or_city I_inform_or_city O B_inform_dst_city O O B_inform_budget O O O O O O O B_inform_n_adults O O
+BOS ay bruh i got 3300 and some naggy ass parental figures i need out of my hair where can u get 2 adults from maceio between like september 11th and 24th within my budget EOS	O O O O O B_inform_budget O O O O O O O O O O O O O O O O B_inform_n_adults O O B_inform_or_city O O B_inform_str_date I_inform_str_date O B_inform_end_date O O O O
+BOS tell me about the santos hotel EOS	O O O O O B_switch_frame_dst_city O O
+BOS not bad not bad i would bank on that 8 37 as my sell point for those other 12 packages - are any of them super cheap and swanky EOS	O O O O O O O O O O B_inform_gst_rating I_inform_gst_rating O O O O O O O O O O O O O O B_request_compare_price I_request_compare_price O O O
+BOS so santos is the cheapest cheapest with a 3 star rating at least EOS	O O B_confirm_dst_city O O B_confirm_price O O O B_confirm_category O O O O O
+BOS but in santos they would be gone from the 11-24 right EOS	O O O B_confirm_dst_city O O O O O O B_confirm_str_date O O
+BOS oh good enough howmuch is that package EOS	O O O O O O O O O
+BOS book it please EOS	O O O O O
+BOS yes i need to go help 3 pit bulls before it's too late but i have to go where it's easiest and cheapest first everyone thinks i'm rich but i do this mainly out of love can you get me something in mexico city for 2400 EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O B_inform_budget O
+BOS i can leave from anywhere is necessary EOS	O B_inform_or_city O O O O O O O
+BOS after sept 7 but i need to be back by sept 20 please make sure you give me a hotel located near a park EOS	O O B_inform_str_date I_inform_str_date O O O O O O O B_inform_end_date I_inform_end_date O O O O O O O O O O O B_inform_park O
+BOS no my assistant will assist me EOS	O O O B_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults O
+BOS beach could work if we go early in the morning what do you have in price range EOS	O O O O O O O O O O O O O O O O B_request_price O O
+BOS what's your cheapest in san juan close to a park or beach EOS	O O O B_inform_budget O B_inform_dst_city I_inform_dst_city O O O B_inform_park O B_inform_beach O
+BOS what do you have in athens EOS	O O O O O O B_inform_dst_city O
+BOS i guess mexico city it is let's go with the cheapest stay these dogs are all volunteer work EOS	O O O B_switch_frame_dst_city I_switch_frame_dst_city O O O O O O B_switch_frame_ref_anaphora O O O O O O O O
+BOS yes please if you can tell me the name and some of the details concerning my stay EOS	O B_affirm O O O O O O O O O O O O B_moreinfo O O O O
+BOS it sounds just fine to me please go ahead and do the booking EOS	O O O O O O O O O O O O O O O
+BOS thank you for your help EOS	O B_thankyou O O O O O
+BOS i want you to recommend me a package in rome that leaves from las vegas i have a travel window between 20 and 26 september EOS	O O O O O O O O O O B_inform_dst_city O O O B_inform_or_city I_inform_or_city O O O O O O B_inform_str_date O B_inform_end_date I_inform_end_date O
+BOS can you tell me the price and nearby attractions EOS	O O O O O O B_request_price O O O O
+BOS i need to get to miami sometimes in the near future EOS	O O O O O O B_inform_dst_city O O O O O O
+BOS kyoto EOS	O B_inform_or_city O
+BOS ahh ok i could do tokyo but if that's the case i wanna keep it under 3400 cause i could drive otherwise EOS	O O O O O O B_inform_dst_city O O O O O O O O O O B_inform_budget O O O O O O
+BOS do you fly to sacramento EOS	O O O O O B_inform_dst_city O
+BOS that's more like it EOS	O O B_moreinfo O O O
+BOS can a colleague and i get there for 4200&gt; EOS	O B_inform_n_adults O I_inform_n_adults I_inform_n_adults I_inform_n_adults O O O B_inform_budget O
+BOS guess what i'm a recently married person looking for a honeymoon package from osaka to manaus EOS	O O O O O O O O O O O B_inform_n_adults O O B_inform_or_city O B_inform_dst_city O
+BOS yeah we have 6300 dollars left over after the wedding EOS	O O O O B_inform_budget O O O O O O O
+BOS its all we have can it get us to burlington instead EOS	O O O O O O O O O O B_inform_dst_city O O
+BOS san jose to guadalajara EOS	O B_inform_or_city I_inform_or_city O B_inform_dst_city O
+BOS between septemeber 6 to 21 EOS	O O B_inform_str_date I_inform_str_date O B_inform_end_date O
+BOS one no EOS	O B_inform_n_adults O O
+BOS san jose to cordoba EOS	O B_inform_or_city I_inform_or_city O B_inform_dst_city O
+BOS san jose to kyoto EOS	O B_inform_or_city I_inform_or_city O B_inform_dst_city O
+BOS san jose to calgary EOS	O B_inform_or_city I_inform_or_city O B_inform_dst_city O
+BOS how much for the cordoba one EOS	O O O O O B_switch_frame_dst_city O O
+BOS what is the calgary guest rating EOS	O O O O B_switch_frame_dst_city O O O
+BOS ok cordoba sounds better EOS	O O B_switch_frame_dst_city O O O
+BOS business pls EOS	O B_switch_frame_seat O O
+BOS i need to book 4 kids and one adult to rio de janeiro departing from queenstown EOS	O O O O O B_inform_n_children O O B_inform_n_adults O O B_inform_dst_city I_inform_dst_city I_inform_dst_city O O B_inform_or_city O
+BOS nah EOS	O B_inform_budget O
+BOS whenever EOS	O B_inform_str_date O
+BOS 3 star - let me know EOS	O B_switch_frame_category O O O O O O
+BOS economy EOS	O B_inform_seat O
+BOS let’s just book that EOS	O O O O B_switch_frame_ref_anaphora O
+BOS thank you EOS	O B_thankyou O O
+BOS i want to fly from jerusalem to rio de janeiro EOS	O O O O O O B_inform_or_city O B_inform_dst_city I_inform_dst_city I_inform_dst_city O
+BOS no EOS	O B_negate O
+BOS goodbye EOS	O B_goodbye O
+BOS toronto to san diego EOS	O B_inform_or_city O B_inform_dst_city I_inform_dst_city O
+BOS 1 and depends on how long your stays are EOS	O B_inform_n_adults O O O O O O O O O
+BOS 3,700 EOS	O B_inform_budget O
+BOS anything better in atlanta EOS	O O B_inform_category O B_inform_dst_city O
+BOS what would would the price on this one be for 3 adults EOS	O O O O O B_request_price O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O B_inform_n_adults O O
+BOS how much for 4 days business class for 3 adults EOS	O O O O B_switch_frame_duration I_switch_frame_duration B_inform_seat O O B_switch_frame_n_adults O O
+BOS can you check what you have in stuttgart for 1 person under 3700 EOS	O O O O O O O O B_inform_dst_city O B_inform_n_adults O O B_inform_budget O
+BOS i think i will take the one in san diego but would like more info before i finalize things EOS	O O O O O O O O O B_switch_frame_dst_city I_switch_frame_dst_city O O O O O O O O O O
+BOS san diego would just be for me actually i will meet the investors there EOS	O B_inform_dst_city I_inform_dst_city O B_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults O O O O O O O O
+BOS how much for just me then EOS	O O O O B_inform_n_adults I_inform_n_adults O O
+BOS okay let's go with business then EOS	O O O O O B_switch_frame_seat O O
+BOS yes EOS	O B_affirm O
+BOS thank you EOS	O B_thankyou O O
+BOS yes im looking for mewtwo in marseille ook leaving from fortaleza with 2200 sept 11th EOS	O O O O O O O B_inform_dst_city O O O B_inform_or_city O B_inform_budget B_inform_str_date I_inform_str_date O
+BOS yupp uh huh EOS	O O O O O
+BOS go to atlanta then EOS	O O O B_inform_dst_city O O
+BOS throw that extra 5 in EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS what is nearby the 3 star hotel EOS	O O O O O B_switch_frame_category O O O
+BOS 3 5 it is then lets book it EOS	O B_switch_frame_category I_switch_frame_category O O O O O O O
+BOS going from portland to manaus 4 kids too EOS	O O O B_inform_or_city O B_inform_dst_city B_inform_n_children O O O
+BOS yup just one adult EOS	O O O B_affirm_n_adults O O
+BOS i dont know you tell me EOS	O B_inform_str_date O O O O O O
+BOS nope not at all EOS	O B_inform_budget O O O O
+BOS what amenities EOS	O O B_request_amenities O
+BOS any other options EOS	O O O O O
+BOS whats the price difference EOS	O O O B_request_compare_price O O
+BOS book the 15 day package please EOS	O O O B_switch_frame_duration I_switch_frame_duration O O O
+BOS no thank u EOS	O B_negate B_thankyou O O
+BOS no thanks EOS	O B_negate B_thankyou O
+BOS rome to goiania and i will go from september eight until twenty five and i have 4900 dollars in budget EOS	O B_inform_or_city O B_inform_dst_city O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date O O O B_inform_budget O O O O
+BOS me alone EOS	O B_inform_n_adults I_inform_n_adults O
+BOS higher star EOS	O B_switch_frame_category I_switch_frame_category O
+BOS if they are both the same EOS	O O O O O O O O
+BOS ok tell me about the 8 69 EOS	O O O O O O B_switch_frame_gst_rating I_switch_frame_gst_rating O
+BOS i just want to know about the hotel EOS	O O O O O O O O O O
+BOS ah ok and price for economy EOS	O O O O B_request_price O B_inform_seat O
+BOS well economy in that case i would like to book EOS	O O B_switch_frame_seat O O O O O O O O O
+BOS thank you EOS	O B_thankyou O O
+BOS my best friend paris hilton and i want to go all out for my birthday this year so you must find me the hippest place in hiroshima okay EOS	O O O I_inform_n_adults B_inform_n_adults I_inform_n_adults I_inform_n_adults O O O O O O O O O O O O O O O O O O O O B_inform_dst_city O O
+BOS indianapolis EOS	O B_inform_or_city O
+BOS neither matters just find us the bestest place where all the celebrities and rich people stay EOS	O O O O O O O B_inform_category O O O O O O O O O O
+BOS is there a spa EOS	O O O O B_request_spa O
+BOS do you have a 5 star in kochi EOS	O O O O O B_inform_category O O B_inform_dst_city O
+BOS toronto i heard toronto is the best EOS	O B_inform_dst_city O O O O O O O
+BOS not good enough EOS	O O O O O
+BOS what does the hotel oishi offer in amenities EOS	O O O O B_switch_frame_name I_switch_frame_name O O B_request_amenities O
+BOS yippeeee how about food EOS	O O O O O O
+BOS i guess if that is all you have in hiroshima what choice do we have does it at least have an awesome guest rating EOS	O O O O O O O O O O B_inform_dst_city O O O O O O O O O O O O O O O
+BOS well of course business class yes go ahead send paris the bill lol EOS	O O O O O O B_affirm O O O O O O O O
+BOS my assistant and i want to get to ciudad juarez over the next couple weeks to take care of a little chihuahua EOS	O B_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults O O O O B_inform_dst_city I_inform_dst_city O O O O O O O O O O O O O
+BOS between the 9th and the 23rd of september; and i can leave from anywhere EOS	O O O B_inform_str_date O O B_inform_end_date I_inform_end_date I_inform_end_date O O O O O O O
+BOS uunder 3200 please EOS	O O B_inform_budget O O
+BOS there is no park nearby though is there EOS	O O O O B_request_park O O O O O
+BOS are there any other ones EOS	O O O O O O O
+BOS can you check naples in that case EOS	O O O O B_inform_dst_city O O O O
+BOS atlanta EOS	O B_inform_dst_city O
+BOS i meant to say that sounds perfect beach and park EOS	O O O O O O O O B_switch_frame_beach O B_switch_frame_park O
+BOS let's book :wink: EOS	O O O O O
+BOS hi hey hello i need to get to atlanta EOS	O O O O O O O O O B_inform_dst_city O
+BOS and i need to leave form birmingham EOS	O O O O O O O B_inform_or_city O
+BOS yeaaa 1700 bucks EOS	O O B_inform_budget O O
+BOS yupp yupp EOS	O O O O
+BOS september 14 at the earliest EOS	O B_inform_str_date I_inform_str_date O O O O
+BOS no no no not 3 5 stars i need to be in the lap of luxury god knows my photography subjects will be what else have you got i can increase my budget if that will help EOS	O O O O O B_negate_category I_negate_category O O O O O O O O O O O O O O O O O O O O O O O O B_inform_budget O B_inform_budget O O O O O
+BOS i can add another thousand EOS	O O O O B_inform_budget I_inform_budget O
+BOS i have never used this chat thing before i hope i am doing it right i need to book a most awesome vacation for my grandson and i EOS	O B_inform_n_adults O O O O O O O O O O O O O O O O O O O O O O O O B_inform_n_children O O O
+BOS yes my grandson and i i won 3600 in the slots you know so i want to give him the best birthday vacation ever he has never been anywhere you know neither have i i would like to go to lima i heard the weather is very nice there what do you think of can cun my cousing joe used to live there EOS	O O O B_affirm_n_children O B_affirm_n_adults O O B_inform_budget O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_inform_dst_city O O O O O O O O O O O O O O O O O O O O O O O
+BOS san juan i have lived here for 45 years i moved there after i married his grandfather he's passed now he was a good man i really miss him my grandson is the light of my life now his mama works too much EOS	O B_inform_or_city I_inform_or_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS do you think my grandson would like that EOS	O O O O O O O O B_switch_frame_ref_anaphora O
+BOS what about la paz is there anything fun for him to do in la paz EOS	O O O B_inform_dst_city I_inform_dst_city O O O O O O O O O O O O
+BOS we can only leave after sept 11 and we need to be back before the start of school on sept 25th do both these packages suit the dates EOS	O O O O O O B_inform_str_date I_inform_str_date O O O O O O O O O O O O B_inform_end_date I_inform_end_date O O O O O O O O
+BOS i guess if only la paz suits the dates then la paz it is yes please go ahead and book and take care sweetie EOS	O O O O O B_switch_frame_dst_city I_switch_frame_dst_city O O O O O O O O O O O O O O O O O O O
+BOS thank you kindly EOS	O B_thankyou O O O
+BOS hi EOS	O B_greeting O
+BOS i run this start-up in jerusalem do you fly out of there EOS	O O O O O O B_inform_or_city O O O O O O O
+BOS thanks anyway EOS	O B_thankyou O O
+BOS i've got 9 days to take off this month any time is good i was looking to see where i can go from barcelona EOS	O B_inform_str_date O B_inform_max_duration I_inform_max_duration O O O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS nope EOS	O B_inform_budget O
+BOS tell me about the kochi package first please EOS	O O O O O B_switch_frame_dst_city O O O O
+BOS nice i just want to hear about the package to curitiba to compare EOS	O O O O O O O O O O O B_switch_frame_dst_city O O O
+BOS curitiba is a great deal i think i'll go with that one EOS	O B_inform_dst_city O O O O O O O O O O O O
+BOS no - that's it i appreciate it :slightly_smiling_face: EOS	O B_negate O O O O O O O O
+BOS i’d like to go from ulsan to indianapolis soon but keep it under 5700 please EOS	O O O O O O B_inform_or_city O B_inform_dst_city O O O O O B_inform_budget O O
+BOS indeeed i am EOS	O O O O O
+BOS nope - just soon EOS	O B_inform_str_date O O O O
+BOS which is in a better area EOS	O O O O O O O O
+BOS what is around the hotel and what is the guest rating EOS	O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O O O O
+BOS what can you find me in maceio i’d like something in the heart of the city maybe near markets or shopping districts EOS	O O O O O O O B_inform_dst_city O O O O O O O O O O O B_inform_market O B_inform_shopping O O
+BOS even if i left from fukuoka instead EOS	O O O O O O B_inform_or_city O O
+BOS maceio what’s the travel date EOS	O B_switch_frame_dst_city O O O O O
+BOS price EOS	O B_request_price O
+BOS ok let’s do it EOS	O B_affirm O O O O
+BOS thanks - you too EOS	O B_thankyou O O O O
+BOS i want to go to kingston from queenstown with my bestie can you get me there i want the best you have highest ratings EOS	O O O O O O B_inform_dst_city O B_inform_or_city B_inform_n_adults I_inform_n_adults I_inform_n_adults O O O O O O O O O O O B_inform_category O O
+BOS just me and my friend EOS	O O B_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults O
+BOS anytime but soon cuz my bday is in a few days and is doesnt matter how long EOS	O B_inform_str_date O O O O O O O O O O O O O O O O O
+BOS do you have any 5 star hotels in osaka i dont want the paparazzi seeing me in anything below 5 stars embarrassing EOS	O O O O O B_inform_category O O O B_inform_dst_city O O O O O O O O O O O O O O
+BOS anything in antonioo EOS	O O O B_inform_dst_city O
+BOS that's unacceptable find me something better EOS	O B_negate_ref_anaphora O O O O O O
+BOS hi i have 4 children and i would like to take them to santa cruz to visit their mom we are in monterrey EOS	O O O O B_inform_n_children O O O O O O O O O B_inform_dst_city I_inform_dst_city O O O O O O O B_inform_or_city O
+BOS correct and no budget i’m willing to spend whatever for my kids to see their mum EOS	O B_inform_budget O O O O O O O O O O O O O O O O
+BOS nope whatever is available we arent picky EOS	O B_inform_str_date O O O O O O O
+BOS i cant leave from anywhere else but we can go to san juan instead EOS	O O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O O
+BOS is there anything shorter EOS	O O O O B_inform_max_duration O
+BOS is that the shortest package EOS	O O B_switch_frame_ref_anaphora O B_request_duration O O
+BOS sure thank you EOS	O O B_thankyou O O
+BOS hola i need to go on a trip EOS	O O O O O O O O O O
+BOS the 6 kids miss their mommy very much can you take us to jerusalem EOS	O O B_inform_n_children O O O O O O O O O O O B_inform_dst_city O
+BOS  i think i got a good idea i can maybe go to naples and since it's so nearby my wife can just walk over from jerusalem eh EOS	O O O O O O O O O O O O O B_inform_dst_city O O O O O O O O O O O O O O O
+BOS cordoba EOS	O B_inform_or_city O
+BOS 9 days is fine just need a hotel with something to do for the kids maybe outdoor activities or at least wifi if all else fails EOS	O B_switch_frame_duration O O O O O O O O O O O O O O O O O O O O B_request_wifi O O O O O
+BOS how much is it EOS	O O O O O O
+BOS are there options that are significantly better EOS	O O O O O O O O O
+BOS you know what i'd prefer to take the kids to the first one at least they can see the museum and stuff EOS	O O O O O O O O O O O O B_inform_ref_anaphora I_inform_ref_anaphora O O O O O O B_inform_museum O O O
+BOS oh you can do that yes please EOS	O O O O O O B_affirm O O
+BOS thanks so much my kids and wife will be so excited :slightly_smiling_face: EOS	O B_thankyou O O O O O O O O O O O O
+BOS i need to find something between september 8th and 27th for under 4300 from frankfurt EOS	O O O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date O O B_inform_budget O B_inform_or_city O
+BOS no i just want to know what my options are EOS	O B_inform_dst_city O O O O O O O O O O
+BOS not yet can you give me a list of place i can go EOS	O O O O O O O O O O O O O O O
+BOS can you give me some more info on rosario please EOS	O O O O O O O O O B_switch_frame_dst_city O O
+BOS anything better in porto EOS	O O O O B_switch_frame_dst_city O
+BOS can i hear more about the 4 star EOS	O O O O O O O B_switch_frame_category O O
+BOS yes just me i would like to book this please EOS	O O B_affirm_n_adults I_affirm_n_adults O O O O O O O O
+BOS thanks you too EOS	O B_thankyou O O O
+BOS i have 7 kids and we would like to go to dublin they want to see their mom she works there we live in santa cruz EOS	O B_inform_n_adults O B_inform_n_children O O O O O O O O B_inform_dst_city O O O O O O O O O O O O B_inform_or_city I_inform_or_city O
+BOS yup and no budget EOS	O B_inform_budget O O O O
+BOS nothing in mind we can go wheneveer EOS	O B_inform_max_duration O O O O O O O
+BOS 15 EOS	O B_switch_frame_duration O
+BOS what is the hotel rated and what is the guest rating EOS	O O O O O O O O O O O O O
+BOS thats pretty pricey for a 2 5 star hotel… can you check the shortest trip available to nagoya EOS	O O O O O O O O O O O O O O B_inform_max_duration O O O B_inform_dst_city O
+BOS ugh thats long i think we will just go somewhere else to book thanks anyway tho EOS	O O O O O O O O O O O O O O B_thankyou O O O
+BOS miami from goiania 3400 max EOS	O B_inform_dst_city O B_inform_or_city B_inform_budget O O
+BOS hi there i really want to go to osaka but don't really know what kind of trip i want i heard from my friend you guys have a wide range of offerings so i want to check out what are the availabilities for osaka EOS	O O O O O O O O O B_inform_dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS i'm from cleveland EOS	O O O B_inform_or_city O
+BOS can you show me things between sept 12 and 28 i've a ballpark budget of 3600 EOS	O O O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date O O O O O B_inform_budget O
+BOS do you have other packages with better hotels EOS	O O O O O O O B_inform_category O O
+BOS that's not bad how much is this one EOS	O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS how many days is the first package you showed me EOS	O O O O O O B_switch_frame_ref_anaphora O O O O O
+BOS i assume this 4 star one is the best you can find EOS	O O O O B_switch_frame_category O O O O B_confirm_category O O O O
+BOS if i increase my ballpark by 300 will you be able to find something better EOS	O O O B_inform_budget I_inform_budget I_inform_budget I_inform_budget I_inform_budget O O O O O O O B_inform_category O
+BOS okay thanks for your help i'll take it EOS	O O B_thankyou O O O O O O O
+BOS it fits in my budget right let's book business EOS	O O O O O O O O O B_switch_frame_seat O
+BOS ok let's go for it EOS	O B_affirm O O O O O
+BOS i want to go somewhere from toronto ideally between spt 9 and spt 24 we will be 1 adult and 4 children we have 13700 EOS	O O O O O O O B_inform_or_city O O B_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date O O O B_inform_n_adults O O O O O O B_inform_budget O
+BOS sounds pretty good but can you tell me what other trips are available EOS	O O O O O O O O O O O O O O O
+BOS can i hear about the spain package EOS	O O O O O O B_switch_frame_dst_city O O
+BOS sure put us down for economy flights please EOS	O O O O O O B_switch_frame_seat O O O
+BOS thanks EOS	O B_thankyou O
+BOS i want to go to queenstown for 6 days EOS	O O O O O O B_inform_dst_city O B_inform_max_duration I_inform_max_duration O
+BOS san diego EOS	O B_inform_or_city I_inform_or_city O
+BOS i have the 12th to 19th off EOS	O O O O B_inform_str_date O B_inform_end_date O O
+BOS yeah i dont have a budget im treating myself for once EOS	O B_inform_budget O O O O O O O O O O O
+BOS i am very interested but before i book it can you check kyoto EOS	O O O O O O O O O O O O O B_inform_dst_city O
+BOS no need to inform me on this one i would like to book the trip to queenstown please EOS	O O O O O O O O O O O O O O O O O B_switch_frame_dst_city O O
+BOS yeah for sure i wanna be spoiled EOS	O B_affirm O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS i would like to go to ulsan from san juan with my wife and son i need inspiration for my novel EOS	O O O O O O O B_inform_dst_city O B_inform_or_city I_inform_or_city O O O O O O O O O O O O
+BOS 4800 and id like to stay there for 3 days EOS	O B_inform_budget O O O O O O O B_inform_max_duration I_inform_max_duration O
+BOS no but we can try going to hiroshima too EOS	O O O O O O O O B_inform_dst_city O O
+BOS no but we can stay for 9 days instead of 3 EOS	O O O O O O O B_inform_max_duration I_inform_max_duration O O O O
+BOS seattle it is EOS	O B_inform_dst_city O O O
+BOS good old atlanta EOS	O O O B_inform_or_city O
+BOS anytime anytime just need to be there oh also with my 6 lawyers and my kid why not EOS	O B_inform_str_date O O O O O O O O O B_inform_n_children B_inform_n_adults O O O I_inform_n_children O O O
+BOS when can we go EOS	O O O O O O
+BOS how much is it for everyone EOS	O O O O O O O O
+BOS would business class cost a lot more EOS	O O B_inform_seat O O O O O O
+BOS yeah no okay i'll take the economy flights EOS	O O O O O O O B_switch_frame_seat O O
+BOS thanks anything else needed from me EOS	O B_thankyou O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS i would like to go to somewhere dont know where tho i would need to leave from sl and i have 10 days vacation EOS	O B_inform_dst_city O O O O O O O O O O O O O O O O B_inform_or_city O O O B_inform_max_duration I_inform_max_duration O O
+BOS i dont have a date EOS	O B_inform_str_date O O O O O
+BOS 0 00 EOS	O B_inform_budget I_inform_budget O
+BOS ughhhhhhhhhhh i guess i can go up to 400 00 but that's as high as im willing to go EOS	O O O O O O O O O B_inform_budget I_inform_budget O O O O O O O O O O
+BOS well how about rome then EOS	O O O O B_inform_or_city O O
+BOS yeah EOS	O B_affirm O
+BOS i like that ill take it EOS	O O O O O O B_switch_frame_ref_anaphora O
+BOS thank ya EOS	O B_thankyou B_affirm O
+BOS i want to leave from tel aviv and go to fortaleza for 2300 with 7 adults EOS	O O O O O O B_inform_or_city I_inform_or_city O O O B_inform_dst_city O B_inform_budget O B_inform_n_adults O O
+BOS i can leave from kabul EOS	O O O O O B_inform_or_city O
+BOS i can go to london from kabul for 2400 and 3 adults EOS	O O O O O B_inform_dst_city O B_inform_or_city O B_inform_budget O B_inform_n_adults O O
+BOS nope EOS	O B_negate O
+BOS get me out of la asap EOS	O O O O O B_inform_or_city O O
+BOS heard kobe is nice maybe i'll have better luck there EOS	O O B_inform_dst_city O O O O O O O O O
+BOS the hotel's nice right EOS	O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O
+BOS i'll go EOS	O O O O
+BOS when does that one leave EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS no i need to get out before that EOS	O O O O O O O B_inform_str_date B_negate_ref_anaphora O
+BOS i'll take the one leaving today pls EOS	O O O O O O B_switch_frame_str_date O O
+BOS thanks friend EOS	O B_thankyou O O
+BOS i want to go on a vacation from munich EOS	O O O O O O O O O B_inform_or_city O
+BOS idk EOS	O B_inform_dst_city O
+BOS monday to the 22nd EOS	O B_inform_str_date O O B_inform_end_date O
+BOS 4900 EOS	O B_inform_budget O
+BOS just me and my kid EOS	O O B_inform_n_adults O B_inform_n_children I_inform_n_children O
+BOS is that the highest guest rating EOS	O O B_switch_frame_ref_anaphora O B_confirm_gst_rating O O O
+BOS okay yeah tell me more about the hotel EOS	O O B_affirm O O B_moreinfo O O O O
+BOS perfect i'll take it EOS	O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS i want to go to denver from rosario EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS 2 adults and 2 kids and im not picky on how long we stay EOS	O B_inform_n_adults O O O O O O O O O O O O O O
+BOS 12400 EOS	O B_inform_budget O
+BOS what other packages are there EOS	O O O O O O O
+BOS can you give me some info on the hotel EOS	O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS i think the 3 star sounds better how much are business flights EOS	O O O O B_switch_frame_category O O O O O O B_inform_seat O O
+BOS yeah please EOS	O B_affirm O O
+BOS i only have 1800 in the bank though can't do anything with that i bet EOS	O O O O B_inform_budget O O O O O O O O O O O O
+BOS hold on let me check i tend to forget since i never leave my cubicle oh right i live in cordoba EOS	O O O O O O O O O O O O O O O O O O O O O B_inform_or_city O
+BOS i don't suppose i can go to queenstown EOS	O O O O O O O O B_inform_dst_city O
+BOS can you tell me if it's by the beach or a park where i can go out and enjoy the sun EOS	O O O O O O B_switch_frame_ref_anaphora O O B_request_beach O O B_request_park O O O O O O O O O O
+BOS now i don't think my money can take me to houston can it EOS	O O O O O O O O O O O B_inform_dst_city O O O
+BOS then my dream city seattle won't work for me either right EOS	O O O O O B_inform_dst_city O O O O O O O
+BOS thanks back to work EOS	O B_thankyou O O O O
+BOS can i go to la paz from santos between september 12th and 27th EOS	O O O O O B_inform_dst_city I_inform_dst_city O B_inform_or_city O B_inform_str_date I_inform_str_date O B_inform_end_date O
+BOS sounds good could you tell me more about the hotel and the price i don't have a budget EOS	O B_inform_budget O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O B_request_price O O O O O O
+BOS that is really good actually what is the price for business class EOS	O O O O O O O O O B_request_price O B_inform_seat O O
+BOS nice do you have anything to marseille EOS	O O O O O O O B_inform_dst_city O
+BOS give me info on the 8 98/10 EOS	O O O O O O B_switch_frame_gst_rating I_switch_frame_gst_rating O
+BOS coolio do you have anything to san antonio EOS	O O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS no thanks can you tell me what you have in pittsburgh EOS	O O O O O O O O O O O B_inform_dst_city O
+BOS i think i like the la paz package but what do they have amenities EOS	O O O O O O B_switch_frame_dst_city I_switch_frame_dst_city O O O O O O B_request_amenities O
+BOS okay thats fine can you book me for the marseille trip from the 16th to 22nd EOS	O O O O O O O O O O B_switch_frame_dst_city O O O B_switch_frame_str_date O B_switch_frame_end_date O
+BOS how much is the business one EOS	O O O O O B_inform_seat O O
+BOS works for me book it EOS	O O O O O B_switch_frame_ref_anaphora O
+BOS thanks EOS	O B_thankyou O
+BOS i need to get home it’s an emergency EOS	O O O O O O O O O O
+BOS jerusalem EOS	O B_inform_or_city O
+BOS i can leave minneapolis then i need to get to lima EOS	O O O O B_inform_or_city O O O O O O B_inform_dst_city O
+BOS is there anything leaving on the 14th or 15th EOS	O O O O O O O O O B_inform_str_date O
+BOS the 14th is best for my schedule can you tell me the cost EOS	O O B_switch_frame_str_date O O O O O O O O O O O O
+BOS yeah that’s fine can we book it now EOS	O B_affirm O O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS hi you can help me by giving me the best honeymoon in cancun EOS	O O O O O O O O O O O O O B_inform_dst_city O
+BOS well we just finished our wedding in burlington so we can leave from here anytime we blew out both of our bank accounts for the wedding so now the both of us can put together only 1800 EOS	O O O O O O O O B_inform_or_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_inform_budget O
+BOS can you find me something in tampa EOS	O O O O O O O B_inform_dst_city O
+BOS nice is it close to something cool EOS	O O O B_switch_frame_ref_anaphora O O O O O
+BOS before i get too carried away is this the only option that works for us EOS	O O O O O O O O O O O O O O O O O
+BOS so it's actually cheaper to stay longer EOS	O O O O B_request_compare_price O O B_request_compare_duration O
+BOS okay we were thinking of only stay 4 days to save money and go back to work earlier but in this case we'll go for the 7 days EOS	O O O O O O O O O I_inform_duration O O O O O O O O O O O O O O O O O B_inform_duration O O
+BOS i'm going to splurge for biz since i can afford it :slightly_smiling_face: EOS	O O O O O O B_switch_frame_seat O O O O O O O
+BOS thank you EOS	O B_thankyou O O
+BOS get me out of santiago for 13 days EOS	O O O O O B_inform_or_city O B_inform_max_duration I_inform_max_duration O
+BOS i dont care EOS	O B_inform_dst_city O O O
+BOS anytime EOS	O B_inform_str_date O
+BOS 400 EOS	O B_inform_budget O
+BOS is this my only option EOS	O O B_confirm_ref_anaphora O B_confirm_count_name O O
+BOS oh…well then i guess i’ll take it hahah EOS	O O O O O O O B_switch_frame_ref_anaphora O O
+BOS business duh EOS	O B_inform_seat O O
+BOS thank ya kindly EOS	O B_thankyou B_affirm O O
+BOS i would like you to find me my wife and my 4 children a trip to guadalajara from seattle EOS	O O O O O O O B_inform_n_adults I_inform_n_adults I_inform_n_adults O O B_inform_n_children O O O O B_inform_dst_city O B_inform_or_city O
+BOS september 11th to 21st or somewhere in between EOS	O B_inform_str_date I_inform_str_date O B_inform_end_date O O O O O
+BOS we have 4700 to spend EOS	O O O B_inform_budget O O O
+BOS what is the other hotel rated EOS	O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS ew um okay do you have anything in chicago EOS	O O O O O O O O O B_inform_dst_city O
+BOS anything in las vegas EOS	O O O B_inform_dst_city I_inform_dst_city O
+BOS what is the guest rating at the 3 star hotel in guadalajara EOS	O O O O O O O O B_switch_frame_category O O O B_switch_frame_dst_city O
+BOS okay i think las vegas is the winner here how much is the package and what are the dates EOS	O O O O B_switch_frame_dst_city I_switch_frame_dst_city O O O O O O O O O O O O O O O
+BOS business if we can EOS	O B_inform_seat O O O O
+BOS okay and what are the dates EOS	O O O O O O O O
+BOS ah perfect yes book this for us please EOS	O O O O O B_switch_frame_ref_anaphora O O O O
+BOS thanks EOS	O B_thankyou O
+BOS the big boss approved sept 12-28 EOS	O O O O O B_inform_str_date I_inform_str_date O
+BOS i'm thinking of a solo outing down to porto EOS	O O O O O B_inform_n_adults O O O B_inform_dst_city O
+BOS cancun maybe 10 days i've been waiting for too long so don't mind splurging on this trip EOS	O B_inform_or_city O B_inform_max_duration I_inform_max_duration O O O O O O O O O O O O O O
+BOS do you have anything longer EOS	O O O O O B_inform_max_duration O
+BOS have you got anything better in tampa EOS	O O O O O B_inform_category O B_inform_dst_city O
+BOS anything higher rated EOS	O O B_inform_category O O
+BOS in a last attempt to find something can you see if there are better trips to marseille EOS	O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS is it close to anything of interest EOS	O O B_switch_frame_ref_anaphora O O O O O O
+BOS can i check which dates is this trip EOS	O O O O O O O O O O
+BOS that's nice alright sign me up EOS	O O O O O O O O
+BOS thank you for your help EOS	O B_thankyou O O O O O
+BOS i would like to take my wife and 4 kids on a trip from toronto to porto EOS	O O O O O O B_inform_n_adults I_inform_n_adults O B_inform_n_children O O O O O B_inform_or_city O B_inform_dst_city O
+BOS yeah EOS	O B_affirm O
+BOS how bout to la paz EOS	O O O O B_inform_dst_city I_inform_dst_city O
+BOS what about cleveland EOS	O O O B_inform_dst_city O
+BOS nothing at all that’s shocking guess i’ll have to discuss some different options with the wife i might be back EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS i need to find mewtwo i need to get to paris from kingston on or after the 6th i have a friend tagging along to help me and we have 6000 EOS	O O O O O O O O O O O B_inform_dst_city O B_inform_or_city O O O O B_inform_str_date O O O B_inform_n_adults I_inform_n_adults I_inform_n_adults O O O O O O B_inform_budget O
+BOS not bad a cathedral might be a good pokéstop do you have anything to phoenix EOS	O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS i think i'll have better luck if i take the trip to paris EOS	O O O O O O O O O O O O O B_switch_frame_dst_city O
+BOS yeah 14 days is fine EOS	O O B_inform_duration I_inform_duration O O O
+BOS sure EOS	O O O
+BOS thanks EOS	O B_thankyou O
+BOS hi EOS	O B_greeting O
+BOS i need to leave beijing i’d like to go to munich with 10 adults and 3300 between us EOS	O O O O O B_inform_or_city O O O O O B_inform_dst_city O B_inform_n_adults O O B_inform_budget O O O
+BOS how bout kabul to munich EOS	O O O B_inform_or_city O B_inform_dst_city O
+BOS any flights to new york for 2300 and 4 adults EOS	O O O O B_inform_dst_city I_inform_dst_city O B_inform_budget O B_inform_n_adults O O
+BOS kabul EOS	O B_inform_or_city O
+BOS ok then leave from beijing EOS	O O O O O B_inform_or_city O
+BOS i want to take my five friends with me from san diego to frankfurt for my birthday bash EOS	O O O O O O B_inform_n_adults O O O O B_inform_or_city I_inform_or_city O B_inform_dst_city O O O O O
+BOS ya EOS	O B_affirm O
+BOS i dont care EOS	O B_inform_str_date O O O
+BOS i want the best nothing under 5 stars EOS	O O O O O O O B_inform_category O O
+BOS it might let me take a peek at my other destinations first this party needs to be perfect can you check marseille EOS	O O O O O O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS nice anything in pittsburgh EOS	O O O O B_inform_dst_city O
+BOS i think the marseille trip is the best since there’s a spa is there a spa in the hotel in frankfurt EOS	O O O O O O O O O O O O B_request_spa O O O O O O O O B_switch_frame_dst_city O
+BOS ok then i’ll go with marseille EOS	O O O O O O B_switch_frame_dst_city O
+BOS ok just as long as i get business class EOS	O O O O O O O O B_switch_frame_seat O O
+BOS thanks EOS	O B_thankyou O
+BOS i would like to take my family on a trip from kabul to phoenix EOS	O O O O O O O O O O O O B_inform_or_city O B_inform_dst_city O
+BOS no EOS	O B_negate O
+BOS take me from beijing to salvador from the 24th to 27th for 2500 or under EOS	O O O O B_inform_or_city O B_inform_dst_city O O B_inform_str_date O B_inform_end_date O B_inform_budget O O O
+BOS i need to get to north vancouver to shoot my movie coming from birmingham EOS	O O O O O O B_inform_dst_city I_inform_dst_city O O O O O O B_inform_or_city O
+BOS anytime for any price EOS	O B_inform_str_date O O O O
+BOS i guess i could hang with selena in kingston yet again EOS	O O O O O O O O O B_inform_dst_city O O O
+BOS ok tell me about these packages EOS	O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS i want the 13 day EOS	O O O O B_switch_frame_duration I_switch_frame_duration O
+BOS duh EOS	O O O
+BOS ya thanks EOS	O B_affirm B_thankyou O
+BOS need two tickets out of buenos aires EOS	O O B_inform_n_adults O O O B_inform_or_city I_inform_or_city O
+BOS yup two adults they can be anywhere in the world except here for as long as possible between the 20th and the 3rd of next month please EOS	O B_inform_dst_city B_affirm_n_adults O O O O O O O O O O O O O O O O O B_inform_str_date O O B_inform_end_date I_inform_end_date I_inform_end_date I_inform_end_date O O
+BOS yup can you find something under 3000 EOS	O O O O O O O B_inform_budget O
+BOS not bad and when does this trip leave EOS	O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS awesome book it for business please i think that'll do it EOS	O O O O O B_switch_frame_seat O O O O O O O
+BOS thanks i'm sure it will be amazinggg EOS	O B_thankyou O O O O O O O
+BOS i wanna find a vacation between yesterday and the 24th for under 3200 and leaving from tijuana EOS	O O O O O O O B_inform_str_date O O B_inform_end_date O O B_inform_budget O O O B_inform_or_city O
+BOS no EOS	O B_inform_dst_city O
+BOS tell me about porto EOS	O O O O B_switch_frame_dst_city O
+BOS tell me about the goiania package EOS	O O O O O B_switch_frame_dst_city O O
+BOS whats the guest rating EOS	O O O O O O
+BOS i like the one to porto can you book it EOS	O O O O O O B_switch_frame_dst_city O O O O O
+BOS ya but are there business class flights for porto EOS	O O O O O B_inform_seat O O O B_inform_dst_city O
+BOS ok thats fine economy it is EOS	O O O O B_switch_frame_seat O O O
+BOS thanks EOS	O B_thankyou O
+BOS hi yes to jerusalem please EOS	O O O O B_inform_dst_city O O
+BOS just me i'll leave from lima EOS	O B_inform_n_adults I_inform_n_adults O O O B_inform_or_city O
+BOS tofino EOS	O B_inform_dst_city O
+BOS ugh if you can't get me to new york then we're done EOS	O O O O O O O O B_inform_dst_city I_inform_dst_city O O O O
+BOS for new york i'm only willing to spend 1600 do both of them work EOS	O O B_inform_dst_city I_inform_dst_city O O O O O B_inform_budget O O O O O O
+BOS what are the hotels like EOS	O O O O O O O
+BOS no shorter packages EOS	O O B_request_duration O O
+BOS alright i guess i have no choice please take care of the booking for me EOS	O B_switch_frame_ref_anaphora O O O I_switch_frame_ref_anaphora I_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS i have 9 days vacation EOS	O O O B_inform_max_duration O O O
+BOS baltimore EOS	O B_inform_or_city O
+BOS no EOS	O B_inform_dst_city O
+BOS i want to leave on or after the 20th EOS	O O O O O B_inform_str_date I_inform_str_date I_inform_str_date I_inform_str_date I_inform_str_date O
+BOS whats the hotel like EOS	O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS whats the guest rate EOS	O O O O O O
+BOS ok do you have any other options EOS	O B_affirm O O O O O O O
+BOS anything else EOS	O O O O
+BOS i think i will just stick to the one in rosario how much is it for business class EOS	O O O O O O O O O O O B_inform_dst_city O O O O O B_inform_seat O O
+BOS i only have 9 days vacation tho EOS	O O O O B_inform_max_duration I_inform_max_duration O O O
+BOS ok please do EOS	O B_affirm O O O
+BOS goiania sounds good whats the hotel like EOS	O B_switch_frame_dst_city O O O O O O O
+BOS cool whats the highest rated hotel available EOS	O O O O B_inform_gst_rating O O O O
+BOS anywhere EOS	O B_inform_dst_city O
+BOS tell me more EOS	O O O B_moreinfo O
+BOS more EOS	O B_moreinfo O
+BOS ok i'll take it is there business class EOS	O O O O O O O B_request_seat O O
+BOS yea book er EOS	O O O B_switch_frame_ref_anaphora O
+BOS thank u EOS	O B_thankyou O O
+BOS i have 4 kids i want to take on a trip to see their mom in santa cruz EOS	O O O B_inform_n_children O O O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS belo horizonte EOS	O B_inform_or_city I_inform_or_city O
+BOS anything to punta cana EOS	O O O B_inform_dst_city I_inform_dst_city O
+BOS ya EOS	O B_affirm O
+BOS no whenever EOS	O B_inform_str_date O O
+BOS okay that’s fine we’ll take it EOS	O O O O O O B_switch_frame_ref_anaphora O
+BOS thanks EOS	O B_thankyou O
+BOS hey so i'm in charge of planning the next vacay for my wife and me plus our seven munchkins EOS	O O O O O O O O O O O O O B_inform_n_adults I_inform_n_adults I_inform_n_adults O O B_inform_n_children O O
+BOS yup our family's settled in vancouver i've got a few sweet destinations in mind but can you help me check punta cana first EOS	O O O O O O B_inform_or_city O O O O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O O
+BOS yeah that's the hard part we're hoping to spend only 1300 EOS	O O O O O O O O O O O B_inform_budget O
+BOS ugh that's what i thought the most i can convince her to spend is 1000 more EOS	O O O O O O O O O O O O O O O B_inform_budget I_inform_budget O
+BOS this is harder than i thought what about denver EOS	O O O O O O O O O B_inform_dst_city O
+BOS sounds pretty good can you tell me more about the hotel EOS	O O O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS how much did other guests like it EOS	O O O O O O O O O
+BOS are there any other hotels or packages in denver EOS	O O O O O O O O O B_switch_frame_dst_city O
+BOS okay anything for santiago then EOS	O O O O B_inform_dst_city O O
+BOS that's all for now i'm going to talk to my wife about the denver option and come back to you once we've decided EOS	O O O O O O O O O O O O O O B_switch_frame_dst_city O O O O O O O O O O
+BOS i want to look at trips from san jose to dublin for 3500 and under EOS	O O O O O O O O B_inform_or_city I_inform_or_city O B_inform_dst_city O B_inform_budget O O O
+BOS i thought i already said from san jose to dublin EOS	O O O O O O O B_inform_or_city I_inform_or_city O B_inform_dst_city O
+BOS how bout to atlanta EOS	O O O O B_inform_dst_city O
+BOS how bout alexandria EOS	O O O B_inform_dst_city O
+BOS just me EOS	O B_inform_n_adults I_inform_n_adults O
+BOS do you have anything in san antonio EOS	O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS ok tell me about them EOS	O O O O O B_switch_frame_ref_anaphora O
+BOS idk as long as possible EOS	O B_inform_max_duration O O O O O
+BOS nice… ahhh sounds great 17 days off work EOS	O O O O O B_switch_frame_duration I_switch_frame_duration O O O
+BOS no i don’t have any vacation days left so i can’t book anything thanks for looking anyway i appreciate it EOS	O B_negate O O O O O O O O O O O O B_thankyou O O O O O O O
+BOS i want to throw my parents on a plane and get them out of my hair EOS	O O O O O O B_inform_n_adults O O O O O O O O O O O
+BOS departing from sendai and i only have 4400 EOS	O O O B_inform_or_city O O O O B_inform_budget O
+BOS between the 17th and 30th EOS	O O O B_inform_str_date O B_inform_end_date O
+BOS is the flights economy or business EOS	O O O O B_request_seat O B_request_seat O
+BOS ok do you have any other packages i'll probably end up going with the marseille one cuz marseille is romantic so it's an easy sell but i'm curious what else there is EOS	O B_affirm O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS what do you have in sl EOS	O O O O O O B_switch_frame_dst_city O
+BOS what's in chicago EOS	O O O B_switch_frame_dst_city O
+BOS whats the hotel like there EOS	O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O
+BOS okay well i still like the marseille package the best how much is it for business EOS	O O O O O O O B_switch_frame_dst_city O O O O O O O O B_inform_seat O
+BOS ok then i'll book it economy EOS	O O O O O O B_switch_frame_seat O
+BOS thanks EOS	O B_thankyou O
+BOS i wouldn't define it amazing but yes i need do go back to minneapolis EOS	O O O O O O O O O O O O O O B_inform_dst_city O
+BOS i'm in guadalajara right now just me EOS	O O O B_inform_or_city O O B_inform_n_adults I_inform_n_adults O
+BOS forgot to tell you i only have 1300 in the bank will it work EOS	O O O O O O O O B_inform_budget O O O O O O O
+BOS i just want to go as soon as possible when does the earliest trip leave EOS	O O O O O O O O O O O O O B_inform_str_date O O O
+BOS if i leave from vancouver are there flights that leave earlier EOS	O O O O O B_inform_or_city O O O O O B_inform_str_date O
+BOS not really worth it okay i'll take the earliest that leaves from guadalajara economy flight's good how much is it total EOS	O O O O O O O O O O O O O B_switch_frame_dst_city B_inform_seat O O O O O O O O
+BOS yes please EOS	O B_affirm O O
+BOS i would like to find a vacation between the 24th and 27th from san francisco to fort lauderdale for 3800 EOS	O O O O O O O O O O B_inform_str_date O B_inform_end_date O B_inform_or_city I_inform_or_city O B_inform_dst_city I_inform_dst_city O B_inform_budget O
+BOS i would like to go to salvador from detroit with 4 adults and 11 children total EOS	O O O O O O O B_inform_dst_city O B_inform_or_city O B_inform_n_adults O O B_inform_n_children O O O
+BOS anytime EOS	O B_inform_str_date O
+BOS no EOS	O B_negate O
+BOS hi id like to go to goiania with my 4 besties from kobe EOS	O O O O O O O B_inform_dst_city B_inform_n_adults I_inform_n_adults I_inform_n_adults O O B_inform_or_city O
+BOS kobe… i just said EOS	O B_inform_or_city O O O O
+BOS doesnt matter EOS	O B_inform_str_date O O
+BOS no i need 5 stars any 5 stars in rio de janeiro EOS	O O O O B_inform_category O O O O O B_inform_dst_city I_inform_dst_city I_inform_dst_city O
+BOS sapporo EOS	O B_inform_dst_city O
+BOS yes i choose tampa there lies my destiny EOS	O O O O B_inform_dst_city O O O O O
+BOS i will have 5 fellow teammates are we're based in columbus EOS	O O O O B_inform_n_adults I_inform_n_adults O O O O O B_inform_or_city O
+BOS we were granted 15900 EOS	O O O O B_inform_budget O
+BOS is it a nice location EOS	O O B_switch_frame_ref_anaphora O O O O
+BOS before anything can you also check essen EOS	O O O O O O O B_inform_dst_city O
+BOS i can pull together an additional 500 at most EOS	O O O O O O B_inform_budget I_inform_budget O O O
+BOS no it's fine let's just get the tampa trip EOS	O O O O O O O O B_switch_frame_dst_city O O
+BOS thanks so much EOS	O B_thankyou O O O
+BOS minneapolis to punta cana EOS	O B_inform_or_city O B_inform_dst_city I_inform_dst_city O
+BOS whats the hotel like EOS	O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS kk how bout a trip to guadalajara EOS	O O O O O O O B_inform_dst_city O
+BOS what about to belem EOS	O O O O B_inform_dst_city O
+BOS whats the price for the 4 5 star EOS	O O O B_request_price O O B_switch_frame_category I_switch_frame_category O O
+BOS wow i could afford all these shocking well i cant book anything sorry for wasting your time EOS	O O O O O O O O O O O O O O O O O O O
+BOS i need to book a trip for me and madonna to birmingham from milan EOS	O O O O O O O O B_inform_n_adults I_inform_n_adults I_inform_n_adults O B_inform_dst_city O B_inform_or_city O
+BOS 2 EOS	O B_inform_n_adults O
+BOS anytime but i should be back by the 25th or 27th EOS	O B_inform_str_date O O O O O O O O O B_inform_end_date O
+BOS do you have anything in las vegas for 5 stars EOS	O O O O O O B_inform_dst_city I_inform_dst_city O B_inform_category O O
+BOS ok well i think we will go with the 4 star then can you tell me some more about the hotel EOS	O O O O O O O O O O B_switch_frame_category O O O O O O O O O O O O
+BOS sign us up business class for sure EOS	O O O O B_inform_seat O O O O
+BOS i need to get to marseille from dallas EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS trip for 1 september 9th and 23rd EOS	O O O B_inform_n_adults B_inform_str_date I_inform_str_date O B_inform_end_date O
+BOS i have 1400 EOS	O O O B_inform_budget O
+BOS i can go to denver EOS	O O O O O B_inform_dst_city O
+BOS 6 EOS	O B_switch_frame_duration O
+BOS the one with 8 86/10 guest rating is better do you have anything in san antonio EOS	O O O O O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS ill go with the 3 star hotel in denver how much for the 13th to 18th EOS	O O O O O O O O O B_switch_frame_dst_city O O O O B_switch_frame_str_date O B_switch_frame_end_date O
+BOS good ill book it EOS	O O O O O O
+BOS thnx EOS	O O O
+BOS can you check guadalajara first i'll be leaving from curitiba EOS	O O O O B_inform_dst_city O O O O O B_inform_or_city O
+BOS i only got 7300 EOS	O O O O B_inform_budget O
+BOS when is this trip EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS that could work is this the longest trip you have EOS	O O O O O O O B_request_duration O O O O
+BOS not so fast what amenities does this hotel provide EOS	O O O O O B_request_amenities O O O O O
+BOS does sound pretty good i'm curious about sao paulo though can you help me check EOS	O O O O O O O O B_inform_dst_city I_inform_dst_city O O O O O O O
+BOS that's a good deal what kind of hotel is ut EOS	O O O O O O O O O O B_switch_frame_ref_anaphora O
+BOS this does sound pretty good before i book though can you just help me look into hiroshima EOS	O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS how's the rating and star level of the hotel is it as good as the sao paulo one EOS	O O B_switch_frame_ref_anaphora O O O O O O I_switch_frame_ref_anaphora O O O O O O B_request_compare_dst_city I_request_compare_dst_city O O
+BOS and i assume that's also the highest rated you've got are there also nice activities nearby EOS	O O O O O O O B_confirm_category O O O O O O O O O O
+BOS hm that's a tough choice what are the dates for this and also for the sao paulo one EOS	O O O O O O O O O O O O O O O O B_request_compare_dst_city I_request_compare_dst_city O O
+BOS the dates for the sao paulo package works better for me actually and i also think i shouldn't splurge on this trip since i'm not being paid i'll take the sao paulo trip then business class though :slightly_smiling_face: EOS	O O O O O B_switch_frame_dst_city I_switch_frame_dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_switch_frame_seat O O O O
+BOS great thanks :slightly_smiling_face: EOS	O O B_thankyou O O
+BOS i need 2 get 2 madrid from beijing family emergency need to leave on the 6th EOS	O O O O O O B_inform_dst_city O B_inform_or_city O O O O O O O B_inform_str_date O
+BOS just me ive got 3300 EOS	O B_inform_n_adults I_inform_n_adults O O B_inform_budget O
+BOS yea hurry EOS	O O O O
+BOS i can leave from jerusalem too EOS	O O O O O B_inform_or_city O O
+BOS well then i’m screwed EOS	O O O O O O
+BOS i need to go to beijing from atlanta EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS well good cuz i want to go to beijing from atlanta EOS	O O O O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS well take me to barcelona for 12 adults and 3100 EOS	O O O O O B_inform_dst_city O B_inform_n_adults O O B_inform_budget O
+BOS i can go to stuttgart for 3500 with 6 adults total EOS	O O O O O B_inform_dst_city O B_inform_budget O B_inform_n_adults O O O
+BOS i have to leave from atlanta EOS	O O O O O O B_inform_or_city O
+BOS i would like to take my soon to be wife on a great honeymoon she deserves the best but we can only afford something up to 4200 for 6 days we had discussed going to punta cana from sapporo where our wedding will take place on the 17th we can leave after that EOS	O O O O O O O O O O O O O O B_inform_n_adults O O O O O O O O O O O O B_inform_budget O B_inform_max_duration I_inform_max_duration O O O O O B_inform_dst_city I_inform_dst_city O B_inform_or_city O O O O O O O O B_inform_str_date O O O O O O
+BOS yeah lol we dont want a third wheel EOS	O B_affirm O O O O O O O O
+BOS what is the guest rating for the 2 5 star hotel EOS	O O O O O O O O B_switch_frame_category I_switch_frame_category O O O
+BOS oh well that’s okay what is the hotel like EOS	O O O O O O O O O O O
+BOS do they have wifi or anything EOS	O O O O B_request_wifi O O O
+BOS okay are there any at the 0 star hotel EOS	O O O O O O O B_switch_frame_category O O O
+BOS that’s okay i’ve heard only good things about cuba plus everything is cheap there because everyone get’s paid a dollar a day i think we will take the 2 5 star hotel what are the dates for this package and the cost EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_switch_frame_category I_switch_frame_category O O O O O O O O O O O O O
+BOS is there anything earlier EOS	O O O O B_inform_str_date O
+BOS thats perfect since the hotels probably arent that much different anyway i will book this one how much is this package EOS	O O O O O O O O O O O O O O O B_switch_frame_ref_anaphora O O O O O I_switch_frame_ref_anaphora O
+BOS perfect sign me up EOS	O O O O O O
+BOS thanks you were a great help EOS	O B_thankyou O O O O O O
+BOS i want to find a vacation between the 7th to 24 for 3100 leaving from cordoba can you help me find something good EOS	O O O O O O O O O B_inform_str_date O B_inform_end_date O B_inform_budget O O B_inform_or_city O O O O O O O O
+BOS yes anywhere is fine just like to hear some options EOS	O B_inform_dst_city O O O O O O O O O O
+BOS what else EOS	O O O O
+BOS better are there other places available EOS	O O O O O O O O
+BOS 5 stars now we're talkin any other places with 5 stars EOS	O B_inform_category O O O O O O O O O O O
+BOS okay well is there any more information on the 5 star hotel in madrid EOS	O O O O O O O O O O B_switch_frame_category O O O B_switch_frame_dst_city O
+BOS that sounds like a pretty good package what is the cost EOS	O O O O O O O O O O O O O
+BOS good good very affordable can you book it for me EOS	O O O O O O O O O O O O
+BOS yeah of course EOS	O B_affirm O O O
+BOS thank you very much i'm sure i'll be back again the next time i plan on travelling EOS	O B_thankyou O O O O O O O O O O O O O O O O O
+BOS yes i'm booking for 20 of us heard recife is a sweet destination EOS	O O O O O B_inform_n_adults O O O B_inform_dst_city O O O O O
+BOS open budget we're based in tofino EOS	O B_inform_budget O O O O B_inform_or_city O
+BOS what :disappointed: EOS	O O O O
+BOS i want to go to pittsburgh from boston please EOS	O O O O O O B_inform_dst_city O B_inform_or_city O O
+BOS nope but i only have 2000 EOS	O B_inform_str_date O O O O B_inform_budget O
+BOS 12 i suppose EOS	O B_switch_frame_duration O O O
+BOS is there anything with a higher rating for the other packages EOS	O O O O O O B_request_compare_gst_rating O O O O O O
+BOS do you have anything in sl EOS	O O O O O O B_inform_dst_city O
+BOS 3 5 stars sounds good what is the hotel like EOS	O B_switch_frame_category I_switch_frame_category O O O O O O O O O
+BOS wow thanks for stating the most obvious thing ever what does the hotel include EOS	O O B_thankyou O O O O O O O O O O O O O
+BOS ok i would like to book this one can i get business seats and still stay within my budget EOS	O O O O O O O O O O O O B_inform_seat O O O O O O O O
+BOS good i'll take it then EOS	O O O O B_switch_frame_ref_anaphora O O
+BOS thanks so much EOS	O B_thankyou O O O
+BOS i need to fly to fukuoka from hiroshima EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS just me if you can find something for fukuoka EOS	O B_inform_n_adults I_inform_n_adults O O O O O O B_inform_dst_city O
+BOS i dont have one EOS	O B_inform_budget O O O O
+BOS i don’t have any in particular EOS	O B_inform_str_date O O O O O O
+BOS sure is it near anything does it have a pool EOS	O O O B_switch_frame_ref_anaphora O O O O O O O O
+BOS oh ok that’s fine let’s book it anyway business class style EOS	O O B_affirm O O O O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS anything to minneapolis from calgary EOS	O O O B_inform_dst_city O B_inform_or_city O
+BOS no budget in mind and i'll be traveling solo although i can only go between sept 8-18 EOS	O O O O O O O O O B_inform_n_adults O O O O O O B_inform_str_date B_inform_budget O
+BOS that's really cheap is it a good hotel EOS	O O O O O B_switch_frame_ref_anaphora O O O O
+BOS is there another option EOS	O O O O O O
+BOS don't think i can decide anything until you help me see what's in dallas first EOS	O O O O O O O O O O O O O O B_inform_dst_city O O
+BOS is there a business class option for the minneapolis trip EOS	O O O O B_inform_seat O O O O B_switch_frame_dst_city O O
+BOS when does this trip begin EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS alright that works please proceed with business class EOS	O O O O O O O B_inform_seat O O
+BOS perfect thanks EOS	O O B_thankyou O
+BOS i want to go to barcelona from anywhere between the 12th and the 28th of september i have 2100 and my assistant will be coming along i am specifically looking for hotels near a park or beach or both EOS	O O O O O O B_inform_dst_city O O O O B_inform_str_date O O B_inform_end_date I_inform_end_date I_inform_end_date O O B_inform_budget O B_inform_n_adults I_inform_n_adults O O O O O O O O O O O O B_inform_park O B_inform_beach O O O
+BOS i'm not picky i'm travelling for work what is the hotel near the park like EOS	O B_inform_max_duration O O O O O O O O O O O O B_switch_frame_park O O
+BOS not bad at all are there any hotels near a park in sl EOS	O O O O O O O O O O O B_inform_park O B_inform_dst_city O
+BOS hmm very tempting anything in san juan EOS	O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS okay then that is out of the question i think i will go to barcelona for the 9 day package when does it leave EOS	O O O O O O O O O O O O O O O B_switch_frame_dst_city O O B_switch_frame_duration I_switch_frame_duration O O O O O O
+BOS when is the return date EOS	O O O O O O O
+BOS good the price is 1725 59 right EOS	O O O O O B_confirm_price I_confirm_price O O
+BOS ok good we will book this one then EOS	O B_affirm O O O O O O O O
+BOS thank you for the help EOS	O B_thankyou O O O O O
+BOS melbourne please EOS	O B_inform_dst_city O O
+BOS in long beach right now EOS	O O B_inform_or_city I_inform_or_city O O O
+BOS okay fine i could go to kingston to see my bestie too EOS	O O O O O O O B_inform_dst_city O O O O O O
+BOS doesn't matter as long as it's a nice hotel EOS	O B_inform_max_duration O O O O O O B_inform_category O O
+BOS 4 star is the best you got EOS	O B_switch_frame_category O O O B_confirm_category O O O
+BOS 6 days only please business flights are available right EOS	O B_switch_frame_duration I_switch_frame_duration O O B_inform_seat O O O O O
+BOS alright sure let's get this over with EOS	O O O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS i need to find something in kyoto between the 17th and 30th EOS	O O O O O O O B_inform_dst_city O O B_inform_str_date O B_inform_end_date O
+BOS anywhere i have 6400 also and my assistant will be joining me EOS	O B_inform_or_city O O B_inform_budget O O B_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults O
+BOS what is the price and the dates of travel EOS	O O O O B_request_price O O O O O O
+BOS what are my options EOS	O O O O O O
+BOS where is the cheapest place to leave from EOS	O O O O B_request_compare_price O O O O O
+BOS okay is the hotel near a park or a beach EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O B_request_park O O B_request_beach O
+BOS that wont work then do you have anything in busan EOS	O O O O O O O O O O B_inform_dst_city O
+BOS that is good what is the price EOS	O B_switch_frame_ref_anaphora O O O O O B_request_price O
+BOS okay do you have anything to santos near a park but with a lower price than the busan package EOS	O O O O O O O B_inform_dst_city O O B_inform_park O O O B_inform_budget O O O O O O
+BOS i don’t care where i depart from EOS	O B_inform_or_city O O O O O O O
+BOS okay that would be great can you still check santos for me though EOS	O O O O O O O O O O B_inform_dst_city O O O O
+BOS is it near a park or beach EOS	O O B_switch_frame_ref_anaphora O O O O O O
+BOS okay so not near a park or beach then EOS	O O O O O O B_confirm_park O B_confirm_beach O O
+BOS you are being unhelpful just answer yes or no is it near a park or beach EOS	O O O O O O O O O O O O O O B_request_park O B_request_beach O
+BOS i sure hope i want to go to santo domingo EOS	O O O O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS no one else EOS	O B_inform_n_adults I_inform_n_adults I_inform_n_adults O
+BOS i could leave from ciudad juarez EOS	O O O O O B_inform_or_city I_inform_or_city O
+BOS actually yeah i could leave from kochi EOS	O O O O O O O B_inform_or_city O
+BOS how about let's try going to busan then from ciudad juarez is possible EOS	O O O O O O O B_inform_dst_city O O B_inform_or_city I_inform_or_city O O O
+BOS i hope to travel between sept 8-17 but i'm willing to make it flexible to find a food trip EOS	O O O O O O B_inform_str_date I_inform_str_date O O O O O O B_inform_flex O O O O O O
+BOS can i ask you whether it's possible to find a better hotel if i depart from kochi EOS	O O O O O O O O O O O B_inform_category O O O O O B_inform_or_city O
+BOS are there longer trips then EOS	O O O B_inform_min_duration O O O
+BOS either which one offers the longer stay in busan EOS	O B_inform_or_city O O O O B_inform_min_duration O O B_inform_dst_city O
+BOS would the hotel be close to any points of interest by any chance EOS	O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O O O O O O O O
+BOS alright you convinced me please tell me business flights are available though EOS	O O O O O O O O B_inform_seat O O O O O
+BOS can you actually book it for 2 EOS	O O O O O B_switch_frame_ref_anaphora O B_inform_n_adults O
+BOS yup go ahead EOS	O O O O O
+BOS thanks for everything EOS	O B_thankyou O O O
+BOS me and 3 friends are going on fall break and want to go to san diego from calgary from the 8th to 25th and we have 14000 between us EOS	O B_inform_n_adults I_inform_n_adults I_inform_n_adults I_inform_n_adults O O O O O O O O O O B_inform_dst_city I_inform_dst_city O B_inform_or_city O O B_inform_str_date O B_inform_end_date O O O B_inform_budget O O O
+BOS sure as long as it's within our dates EOS	O O O O O B_switch_frame_ref_anaphora O O O O
+BOS what are the dates for it EOS	O O O O O O B_switch_frame_ref_anaphora O
+BOS good do you have any other hotels available in san diego with a better rating EOS	O O O O O O O O O O B_inform_dst_city I_inform_dst_city O O B_inform_category O O
+BOS is there anything better than 3 stars in cordoba EOS	O O O O B_inform_category I_inform_category I_inform_category O O B_inform_dst_city O
+BOS that's perfect is it near anything like a university or park or mall or something EOS	O O O O B_switch_frame_ref_anaphora O O O O B_request_university O B_request_park O B_request_mall O O O
+BOS we will book this one EOS	O O O O O O O
+BOS thank you for your help EOS	O B_thankyou O O O O O
+BOS i have 7 days vacation EOS	O O O B_inform_max_duration I_inform_max_duration O O
+BOS i want a vacation starting on or after the 20th from sao paulo can you give me some destinations that are available from sao paulo i dont have a budget i will spend whatever is needed to have the best vacation possible find me the best hotel possible EOS	O B_inform_budget O O O O O O O O B_inform_str_date O B_inform_or_city I_inform_or_city O O O O O O O O O O B_inform_or_city I_inform_or_city O O O O O O O O O O O O O O B_inform_category O O O O O O O O O
+BOS the 3 5 in fukuoka can you tell me more about it EOS	O O B_switch_frame_category I_switch_frame_category O B_switch_frame_dst_city O O O O O O O O
+BOS how many days is the package EOS	O O O O O O O O
+BOS i only have 7 days for vacation tho EOS	O O O O B_inform_max_duration I_inform_max_duration O O O O
+BOS can you tell me about the cordoba package please EOS	O O O O O O O B_switch_frame_dst_city O O O
+BOS that sounds like an amazing package i don’t even need to hear about the other ones book it for me EOS	O O O O O O O O O O O O O O O O O O O O O O
+BOS do you have business EOS	O O O O B_inform_seat O
+BOS i’ll book that one EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS thanks EOS	O B_thankyou O
+BOS next stop is san jose can you get me there EOS	O O O O B_inform_dst_city I_inform_dst_city O O O O O O
+BOS current stop is manaus EOS	O O O O B_inform_or_city O
+BOS just give me your best hotels EOS	O O O O O B_inform_category O O
+BOS is there any cool stuff around EOS	O O O O O O O O
+BOS sign me up in business class of course EOS	O O O O O B_switch_frame_seat O O O O
+BOS thanks EOS	O B_thankyou O
+BOS i would like to take my fam jam on a vacation to boston from tijuana EOS	O O O O O O O O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS 2 adults and 5 children EOS	O B_inform_n_adults O O B_inform_n_children O O
+BOS the 3 star hotel sounds better my girls love to shop between the 11th and 29th EOS	O O B_switch_frame_category O O O O O O O O O O O B_inform_str_date O B_inform_end_date O
+BOS yes please it sounds like a great package EOS	O B_affirm O O O O O O O O
+BOS cool can you check out ciudad juarez for me next EOS	O O O O O O B_inform_dst_city I_inform_dst_city O O O O
+BOS yeah i think we will just go straight for ciudad juarez what is the price for that package EOS	O O O O O O O O O O B_switch_frame_dst_city I_switch_frame_dst_city O O O B_request_price O O O O
+BOS well since we only have 4700 we will take economy EOS	O O O O O O B_inform_budget O O O B_switch_frame_seat O
+BOS thank you EOS	O B_thankyou O O
+BOS i need to find a vacation between the 12 of september and 2nd of october for under 6500 leaving from sydney EOS	O O O O O O O O O B_inform_str_date I_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date I_inform_end_date O O B_inform_budget O O B_inform_or_city O
+BOS anywhere EOS	O B_inform_dst_city O
+BOS just me EOS	O B_inform_n_adults I_inform_n_adults O
+BOS kk what are the date EOS	O O O O O O O
+BOS that's perfect is the hotel near anything in particular EOS	O O O O O O O O O O O
+BOS perfect so convenient book it for me please :slightly_smiling_face: EOS	O O O O O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS hi there what is the best hotel in toronto EOS	O O O O O O O O O B_inform_dst_city O
+BOS yes EOS	O B_affirm O
+BOS san juan is where i reside EOS	O B_inform_or_city I_inform_or_city O O O O O
+BOS as long as the 1800 dollars in my wallet can take me EOS	O B_inform_max_duration O O O B_inform_budget O O O O O O O O
+BOS nice is that the best hotel in toronto EOS	O O O B_switch_frame_ref_anaphora O B_request_category O O B_inform_dst_city O
+BOS can i get a longer package if i opt for economy flights EOS	O O O O O B_inform_max_duration O O O O O B_inform_seat O O
+BOS okay no it's got to be the best hotel when does this trip depart EOS	O O O O O O O O B_switch_frame_category O O O O O O O
+BOS could i get a longer stay or a better hotel with an additional 1000 EOS	O O O O O B_inform_max_duration O O O O O O O B_inform_budget I_inform_budget O
+BOS okay at least i tried i'll take the first offer EOS	O O O O O O O O O B_switch_frame_ref_anaphora O O
+BOS sure might see some celebrities in business class :wink: EOS	O O O O O O O O O O O
+BOS fantastic EOS	O O O
+BOS i heard madonna was in tel aviv can you get me there from santos EOS	O O O O O O B_inform_dst_city I_inform_dst_city O O O O O O B_inform_or_city O
+BOS oh okay well i'll look somewhere else thanks anyway EOS	O O O O O O O O B_thankyou O O
+BOS get the 17 of us out of tofino for a few days the majority of us want to go to lima so let's see deals for those EOS	O O O B_inform_n_adults O O O O B_inform_or_city O B_inform_max_duration I_inform_max_duration I_inform_max_duration O O O O O O O O B_inform_dst_city O O O O O O O
+BOS ah no :disappointed: we're based in tofino EOS	O O O O O O O B_inform_or_city O
+BOS i want a vacation from sydney to washington EOS	O O O O O O B_inform_or_city O B_inform_dst_city O
+BOS yeah i have 2200 EOS	O O O O B_inform_budget O
+BOS how about sydney to houston then EOS	O O O B_inform_or_city O B_inform_dst_city O O
+BOS i can increase my budget by 400 EOS	O O O B_inform_budget I_inform_budget I_inform_budget I_inform_budget I_inform_budget O
+BOS i need to get to burlington from ulsan for 5800 EOS	O O O O O O B_inform_dst_city O B_inform_or_city O B_inform_budget O
+BOS yes i can be there anytime between the 12 of sept and 2nd of oct EOS	O O O O O O O O O B_inform_str_date I_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date I_inform_end_date O
+BOS i want that when is this trip and what is the price EOS	O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O B_request_price O
+BOS what is it for business class EOS	O O O O O B_inform_seat O O
+BOS i’ll take business EOS	O O O B_switch_frame_seat O
+BOS thanks EOS	O B_thankyou O
+BOS barcelona is calling me please show me the way there from belo horizonte EOS	O B_inform_dst_city O O O O O O O O O O B_inform_or_city I_inform_or_city O
+BOS money is just a number it doesn't really matter to me EOS	O B_inform_budget O O O O O O O O O O O
+BOS well i'm actually booking for a colleague in the end but yes it'll just be one adult EOS	O O O O O O O O O O O O O O O O B_inform_n_adults O O
+BOS i'm free sept 17-30 EOS	O O O B_inform_str_date I_inform_str_date O
+BOS what is the hotel like EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS do you have a higher star level hotel in barcelona EOS	O O O O O B_request_category O O O O B_inform_dst_city O
+BOS yes san antonio also sounds nice EOS	O O B_inform_dst_city I_inform_dst_city O O O O
+BOS i could also leave from mannheim EOS	O O O O O O B_inform_or_city O
+BOS yes please EOS	O B_affirm O O
+BOS could you check if you can find a better package in barcelona than the previous one if i depart from mannheim EOS	O O O O O O O O O B_inform_category O O B_inform_dst_city O O O O O O O O B_inform_or_city O
+BOS i will take the 13 day trip then EOS	O O O O O B_switch_frame_duration I_switch_frame_duration O O O
+BOS hmmm i want to go for business EOS	O O O O O O O B_inform_seat O
+BOS gracias EOS	O O O
+BOS recife to pittsburgh for 4 adults only 5 star hotels EOS	O B_inform_or_city O B_inform_dst_city O B_inform_n_adults O O B_inform_category O O O
+BOS check fukuoka then EOS	O O B_inform_dst_city O O
+BOS vancouver EOS	O B_inform_dst_city O
+BOS yeah but the hotel isn't 5 stars you should try harder to find me a 5 star hotel it's my birthday EOS	O O O O O O B_inform_category O O O O O O O O O O O O O O O O
+BOS i would like to go to rosario from st petersburg i have 4600 i can go anytime for however long EOS	O B_inform_str_date O O O O O B_inform_dst_city O B_inform_or_city I_inform_or_city O O B_inform_budget O O O O O O O O
+BOS do you have anything better in santiago EOS	O O O O O O O B_inform_dst_city O
+BOS what if i leave from sl instead anything better EOS	O O O O O O B_inform_or_city O O O O
+BOS i didnt notice there was a 4 star in rosario from st petersburg can you tell me more about that one EOS	O O O O O O O B_switch_frame_category B_switch_frame_or_city O B_switch_frame_dst_city O O I_switch_frame_or_city O O O O O O O O O
+BOS rude anyway i’ll take it EOS	O O O O O O O
+BOS yeah EOS	O B_affirm O
+BOS oh wait i forgot to ask is this economy or business EOS	O O O O O O O O O B_request_seat O B_request_seat O
+BOS oh well okay economy is fine is it booked EOS	O O O O B_inform_seat O O O O O O
+BOS fukuoka to belo horizonte 6000 9th to 17th EOS	O B_inform_or_city O B_inform_dst_city I_inform_dst_city B_inform_budget B_inform_str_date O B_inform_end_date O
+BOS houston to milan for 3 EOS	O B_inform_or_city O B_inform_dst_city O B_inform_n_adults O
+BOS houston to san juan EOS	O B_inform_or_city O B_inform_dst_city I_inform_dst_city O
+BOS hahahahahahahahah no EOS	O B_inform_budget O O
+BOS no do you have anything with 5 stars in manaus EOS	O O O O O O O B_inform_category O O B_inform_dst_city O
+BOS are there 5 star hotels in kyoto EOS	O O O B_inform_category O O O B_inform_dst_city O
+BOS well we can leave anytime need to back in san antonio by the 15th though it'll be the 2 of us EOS	O B_inform_str_date O O O O O O O O B_inform_or_city I_inform_or_city O O B_inform_end_date O O O O B_inform_n_adults O O O
+BOS what about guadalajara i could also leave from brasilia too if that changes anything EOS	O O O B_inform_dst_city O O O O O B_inform_or_city O O O O O O
+BOS okay 3 :star: aint gonna work EOS	O O B_negate_category O O O O O
+BOS no worries thanks EOS	O B_negate O B_thankyou O
+BOS hi i have 9 days of vacation time can you find me travel packages on or after september 20th from ciudad juarez EOS	O O O O B_inform_max_duration I_inform_max_duration O O O O O O O O O O O O B_inform_str_date I_inform_str_date O B_inform_or_city I_inform_or_city O
+BOS nope i can spend however much i need to EOS	O B_inform_budget O O O O O O O O O
+BOS yes can you tell me more about the hotel EOS	O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS okay are there any other packages available EOS	O O O O O O O O O
+BOS maybe where are all the other packages for EOS	O O O O O O O O O O
+BOS i think sacramento sounds the best then i would like to book this package EOS	O O O B_inform_dst_city O O O O O O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS hi we're thinking of going to washington will try to get all 19 of us to go if that's possible EOS	O O O O O O O B_inform_dst_city O O O O O B_inform_n_adults O O O O O O O O
+BOS beautiful jerusalem EOS	O O B_inform_or_city O
+BOS i guess i'll have to look elsewhere EOS	O O O O O O O O O
+BOS i want to go to kabul from baltimore EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS london EOS	O B_inform_dst_city O
+BOS toluca EOS	O B_inform_dst_city O
+BOS fortaleza EOS	O B_inform_dst_city O
+BOS 4100 budget EOS	O B_inform_budget O O
+BOS ya EOS	O B_affirm O
+BOS 13 EOS	O B_switch_frame_duration O
+BOS actually no i cant book anything i dont have any vacation days left EOS	O O B_negate O O O O O O O O O O O O
+BOS get me to atlanta EOS	O O O O B_inform_dst_city O
+BOS kochi i need to bring it back to kochi EOS	O B_inform_or_city O O O O O O O O O
+BOS will it be able to fit my 5 lawyers and 3 mini-chefs too EOS	O O B_switch_frame_ref_anaphora O O O O O B_inform_n_adults O O B_inform_n_children O O O
+BOS that would be 6 adults total including me and 3 kids yo EOS	O O O O B_inform_n_adults O O O O O B_inform_n_children O O O
+BOS man i was planning on spending much more than that to get a really nice package since all of us are so high-class and picky you know EOS	O O O O O O O O B_moreinfo O O O O O O O O O O O O O O O O O O O O
+BOS ugh fine is it near anything of interest oh also does it have wifi for the kids to play their games EOS	O O O O O O O O O O O O O O B_request_wifi O O O O O O O O
+BOS you said it leaves tomorrow right EOS	O O O O O B_confirm_str_date O O
+BOS alright book it for us please EOS	O O O O O O O O
+BOS thanks very excited EOS	O B_thankyou O O O
+BOS i need to get out of kabul on september 6th can you get me to leon for 3200 EOS	O O O O O O O B_inform_or_city O B_inform_str_date I_inform_str_date O O O O O B_inform_dst_city O B_inform_budget O
+BOS calgary EOS	O B_inform_or_city O
+BOS yeah just me it doesnt matter how long i stay but the longer the better EOS	O B_inform_max_duration O O O O O O O O O O O O O O O
+BOS yes put me for business and book it EOS	O O O O O B_switch_frame_seat O O O O
+BOS thanks EOS	O B_thankyou O
+BOS please get me back to manaus asap EOS	O O O O O O B_inform_dst_city O O
+BOS currently in osaka actually EOS	O O O B_inform_or_city O O
+BOS asap EOS	O B_inform_str_date O
+BOS oh i forgot to mention i only have 4300 bucks to spend will this work EOS	O O O O O O O O O B_inform_budget O O O O B_switch_frame_ref_anaphora O O
+BOS okay great before i book anything can you check if there are any trips that leave earlier if i go from stuttgart EOS	O O O O O O O O O O O O O O O O O B_inform_str_date O O O O B_inform_or_city O
+BOS alright i'll still leave from osaka please finalize this deal for me EOS	O O O O O O B_switch_frame_or_city O O O O O O O
+BOS awesome thanks so much EOS	O O B_thankyou O O O
+BOS i want to go to guadalajara with my home girlz EOS	O O O O O O B_inform_dst_city O O O O O
+BOS 7 and seattle EOS	O B_inform_n_adults O B_inform_or_city O
+BOS seattle EOS	O B_inform_or_city O
+BOS 5 stars for sure we want the best package EOS	O B_inform_category O O O O O O O O O
+BOS no i need 5 stars check kobe EOS	O O O O B_inform_category O O B_inform_dst_city O
+BOS sure tell me about it EOS	O O O O O B_switch_frame_ref_anaphora O
+BOS anything in ulsan EOS	O O O B_inform_dst_city O
+BOS which hotel has a higher guest rating EOS	O O O O O O O O O
+BOS do one of the hotels have a spa EOS	O O O O O O O O B_request_spa O
+BOS well we really love to shop but the other hotel has a better guest rating i think we will just go to the escape cave anyway book it business class EOS	O O O O O O O O O O O O O O O O O O O O O O O O B_switch_frame_name I_switch_frame_name O O O B_inform_seat O O
+BOS thanks EOS	O B_thankyou O
+BOS i need to get home on or after september 8th EOS	O O O O O O O O O B_inform_str_date I_inform_str_date O
+BOS i need to go to belem from stuttgart EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS yes and i have 4000 EOS	O O O O O B_inform_budget O
+BOS as long as i can its a family emergency EOS	O B_inform_max_duration O O O O O O O O O
+BOS yes please book me the economy package EOS	O O O O O O B_switch_frame_seat O O
+BOS thank you EOS	O B_thankyou O O
+BOS we must go to atlanta EOS	O O O O O B_inform_dst_city O
+BOS san juan EOS	O B_inform_or_city I_inform_or_city O
+BOS 7 full size and 3 mini size EOS	O B_inform_n_adults O O O B_inform_n_children O O O
+BOS can you show me the best packages you've got although keep it under 21100 please EOS	O O O O O O B_inform_category O O O O O O O B_inform_budget O O
+BOS and how did previous guests like it EOS	O O O O O O O B_switch_frame_ref_anaphora O
+BOS how's the other hotel EOS	O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS can you tell me more about the 8 37/10 one EOS	O O O O O O O O B_switch_frame_gst_rating I_switch_frame_gst_rating O O
+BOS will any other packages show up if i increase my budget by 1500 EOS	O O O O O O O O O B_inform_budget I_inform_budget I_inform_budget I_inform_budget I_inform_budget O
+BOS you know what i will take the 3 5 star then are business flights available EOS	O O O O O O O O B_switch_frame_category I_switch_frame_category O O O B_inform_seat O O O
+BOS okay let's book it EOS	O O O O B_switch_frame_ref_anaphora O
+BOS thanks EOS	O B_thankyou O
+BOS i need to get to fortaleza from paris we will be 2 adults and 7 children EOS	O O O O O O B_inform_dst_city O B_inform_or_city O O O B_inform_n_adults O O B_inform_n_children O O
+BOS 19500 EOS	O B_inform_budget O
+BOS possibly what is the hotel like EOS	O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS yes that is perfect could you book this for me EOS	O B_affirm O O O O O O O O O O
+BOS thank you EOS	O B_thankyou O O
+BOS gotta go to hamburg in puebla now EOS	O O O O B_inform_dst_city O B_inform_or_city O O
+BOS dates and budget don't matter just find me something EOS	O B_inform_str_date O O O O O O O O O
+BOS yup EOS	O O O
+BOS is that also the highest star-rated hotel you've got EOS	O O B_switch_frame_ref_anaphora O O B_confirm_category O O O O O
+BOS where is this hotel located EOS	O O O O O O O
+BOS got any amenities EOS	O O O B_request_amenities O
+BOS can you get me into business class EOS	O O O O O O B_inform_seat O O
+BOS only if you ca get me into biz EOS	O O O O O O O O B_inform_seat O
+BOS sounds good to me EOS	O O O O O O
+BOS thx EOS	O O O
+BOS i need to get to san antonio from tampa EOS	O O O O O O B_inform_dst_city I_inform_dst_city O B_inform_or_city O
+BOS september 26 EOS	O B_inform_str_date I_inform_str_date O
+BOS no i need to leave from tampa EOS	O O O O O O O B_inform_or_city O
+BOS okay what is the hotel like EOS	O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS nice do you have anything in atlanta EOS	O O O O O O O B_inform_dst_city O
+BOS ya EOS	O B_affirm O
+BOS i want to book the other package must find mewtwo EOS	O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O
+BOS theres 7 of us EOS	O O B_inform_n_adults O O O
+BOS yeah lets book it EOS	O O O O B_switch_frame_ref_anaphora O
+BOS thanks EOS	O B_thankyou O
+BOS hey bot i got all the money there is in the world find me the best okay EOS	O B_inform_budget O O O O O O O O O O O O O O B_inform_category O O
+BOS lima should have some good stuff my bestie and i are in st petersburg right now oh yeah we also need to be back by the 25th keep that in mind EOS	O B_inform_dst_city O O O O B_inform_or_city O O O O O O O I_inform_or_city O O O O O O O O O O O O B_inform_end_date O O O O O
+BOS 4 star that's the best you have EOS	O B_switch_frame_category O O O B_confirm_category O O O
+BOS find me a 5 star in punta cana EOS	O O O O B_inform_category O O B_inform_dst_city I_inform_dst_city O
+BOS i can also leave from curitiba can you find any better hotels in lima in this case EOS	O O O O O O B_inform_or_city O O O O O O O B_inform_dst_city O O O O
+BOS no i'd rather have the 4 star is the 4 star close to the beach at least EOS	O O O O O O B_switch_frame_category O O O O O O O O B_request_beach O O O
+BOS yeah let's do that with business seats EOS	O O O O O O B_inform_seat O O
+BOS okay thanks EOS	O O B_thankyou O
+BOS i need to get out of north vancouver on september 8th can i get a flight to dublin EOS	O O O O O O O B_inform_or_city I_inform_or_city O B_inform_str_date I_inform_str_date O O O O O O B_inform_dst_city O
+BOS no i need to leave on the 8th EOS	O O O O O O O O B_inform_str_date O
+BOS no i need to leave on the 8th do you have anything leaving from cleveland EOS	O O O O O O O O B_inform_str_date O O O O O O B_inform_or_city O
+BOS no but i can go to sacramento EOS	O O O O O O O B_inform_dst_city O
+BOS i want to get to paris from cordoba EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS 1 kid and 4 adults for 3300 EOS	O B_inform_n_children O O B_inform_n_adults O O B_inform_budget O
+BOS 13 EOS	O B_switch_frame_duration O
+BOS yes EOS	O B_affirm O
+BOS thanks EOS	O B_thankyou O
+BOS hey there the 17 of us wants to get out of tel aviv for a sweet trip EOS	O O O O B_inform_n_adults O O O O O O O B_inform_or_city I_inform_or_city O O O O O
+BOS i can pay as much as needed EOS	O B_inform_budget O O O O O O O
+BOS i have 8 days vacation EOS	O O O B_inform_max_duration I_inform_max_duration O O
+BOS from frankfurt and i dont know where i wanna go but i want to leave on or after the 18th EOS	O B_inform_dst_city B_inform_or_city O O O O O O O O O O O O O O O O O B_inform_str_date O
+BOS no EOS	O B_inform_budget O
+BOS 8 EOS	O B_inform_max_duration O
+BOS yes that sounds pretty good can you tell me more EOS	O O B_switch_frame_ref_anaphora O O O O O O O O O
+BOS ok do you have any better hotels EOS	O O O O O O B_inform_category O O
+BOS yeah tell me more EOS	O B_affirm O O B_moreinfo O
+BOS sure this one seems to be more what i’m looking for is the hotel near anything EOS	O O O O O O O B_moreinfo O O O O O O O O O O
+BOS business for sure EOS	O B_switch_frame_seat O O O
+BOS thanks so much EOS	O B_thankyou O O O
+BOS i'd like to go to washington EOS	O O O O O O B_inform_dst_city O
+BOS naples EOS	O B_inform_or_city O
+BOS i also had sao paulo in my mind EOS	O O O O B_inform_dst_city I_inform_dst_city O O O O
+BOS the 3 star would be great if it's under my budget of 5600 EOS	O O B_switch_frame_category O O O O O O O O O O B_inform_budget O
+BOS great let's book it EOS	O O O O B_switch_frame_ref_anaphora O
+BOS thanks EOS	O B_thankyou O
+BOS i would like to find a great package from birmingham to porto for 6 days EOS	O O O O O O O O O O B_inform_or_city O B_inform_dst_city O B_inform_max_duration O O
+BOS how about to naples instead EOS	O O O O B_inform_dst_city O O
+BOS i want to go to leon from nagoya between the 13th and october 2nd EOS	O O O O O O B_inform_dst_city O B_inform_or_city O O B_inform_str_date O B_inform_end_date I_inform_end_date O
+BOS no EOS	O B_inform_budget O
+BOS that sounds amazing before i make up my mind can you check a few other places for me i was thinking about boston EOS	O O O O O O O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS tell me more about the 3 star hotel EOS	O O O O O O B_switch_frame_category O O O
+BOS not bad can you check packages to sapporo EOS	O O O O O O O O B_inform_dst_city O
+BOS tell me more EOS	O O O B_moreinfo O
+BOS great one more place i'd like to know about is hamburg EOS	O O O O O O O O O O O B_inform_dst_city O
+BOS can i hear about the 4 5 star EOS	O O O O O O B_switch_frame_category I_switch_frame_category O O
+BOS that sounds ideal can you tell me more about the 5 star leon package EOS	O O O O O O O O O O O B_switch_frame_category O B_switch_frame_dst_city O O
+BOS what is the guest rating EOS	O O O O O O O
+BOS great i would like to book this package then EOS	O O O O O O O O O O O
+BOS business EOS	O B_inform_seat O
+BOS awesome book it EOS	O O O B_switch_frame_ref_anaphora O
+BOS thank you EOS	O B_thankyou O O
+BOS hi wizard i'm looking for a trip from rosario EOS	O O O O O O O O O B_inform_or_city O
+BOS can you help me check vancouver EOS	O O O O O O B_inform_dst_city O
+BOS queenstown also sounds pretty nice EOS	O B_inform_dst_city O O O O O
+BOS yes please this sounds interesting EOS	O O O B_switch_frame_ref_anaphora O O O
+BOS that's not too shabby are there comparable deals in manaus EOS	O O O O O O O O O O B_inform_dst_city O
+BOS how about toronto EOS	O O O B_inform_dst_city O
+BOS can you tell me whether the manaus hotel is close to any points of interest then EOS	O O O O O O O B_switch_frame_dst_city O O O O O O O O O O
+BOS what's the price difference between the queenstown and manaus packages EOS	O O O B_request_compare_price O O O B_request_compare_dst_city O B_request_compare_dst_city O O
+BOS wow manaus is a nice deal how much would business flights cost EOS	O O B_inform_dst_city O O O O O O O B_inform_seat O O O
+BOS you know what i think i will take this one can you book it for me EOS	O O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O O O O
+BOS thanks for your help EOS	O B_thankyou O O O O
+BOS i want to leave jerusalem on or after september 6th EOS	O O O O O B_inform_or_city O O O B_inform_str_date I_inform_str_date O
+BOS i can leave from tel aviv and i want to go to san jose with 7 adults for 2500 EOS	O O O O O B_inform_or_city I_inform_or_city O O O O O O B_inform_dst_city I_inform_dst_city O B_inform_n_adults O O B_inform_budget O
+BOS i am leaving from marseille and want to bring my friends with me to hamburg for my birthday bash EOS	O O O O O B_inform_or_city O O O O O O O O O B_inform_dst_city O O O O O
+BOS 8 altogether EOS	O B_inform_n_adults O O
+BOS i think 13 days at a 4 5 star sounds the best tell me about it EOS	O O O B_switch_frame_duration I_switch_frame_duration O O B_switch_frame_category I_switch_frame_category O O O O O O O O O
+BOS thats good but i think i'd like to look at mexico city EOS	O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS i'm gonna need 5 star options anything in essen EOS	O O O O B_inform_category O O O O B_inform_dst_city O
+BOS ugh that's frustrating well i think we will have to book the 4 5 star hotel in hamburg then it's close to 5 stars yeah just book that one then business class EOS	O O O O O O O O O O O O O B_switch_frame_category I_switch_frame_category O O O B_switch_frame_dst_city O O O O O O O O O O O O B_inform_seat O O
+BOS yeah EOS	O B_affirm O
+BOS kk thanks EOS	O O B_thankyou O
+BOS i want to go to burlington from valencia EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS i will be going alone and i have 4100 EOS	O O O O O B_inform_n_adults O O O B_inform_budget O
+BOS when is this trip EOS	O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS do you have anything between the 10th and 20th EOS	O O O O O O O B_inform_str_date O B_inform_end_date O
+BOS maybe can you give me more info on the hotel EOS	O O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS yeah i think i would like to book this how much for business class EOS	O O O O O O O O O O O O O B_inform_seat O O
+BOS business EOS	O B_switch_frame_seat O
+BOS thank you EOS	O B_thankyou O O
+BOS i want to find a vacation between the 12th and 17th for 4 adults and 1 child we would need to leave from rio de janeiro EOS	O O O O O O O O O B_inform_str_date O B_inform_end_date O B_inform_n_adults O O O O O O O O O O B_inform_or_city I_inform_or_city I_inform_or_city O
+BOS we also have 3100 EOS	O O O O B_inform_budget O
+BOS can you give me a list of places first EOS	O O O O O O O O O O O
+BOS oh okay well then i guess we will book this one can you give me information about the hotel EOS	O O O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O O O O O O
+BOS is it near anything interesting EOS	O O O O O O O
+BOS great yes can i book this in business class with my budget EOS	O O O O O O O O B_inform_seat O O O O O
+BOS yeah thats fine EOS	O O B_switch_frame_ref_anaphora O O
+BOS thanks EOS	O B_thankyou O
+BOS hey hey so spring break is sept 26 - oct 3 EOS	O O O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date O
+BOS curitiba is one of the hot destinations of this year it'd be totally awesome if we can go there EOS	O B_inform_dst_city O O O O O O O O O O O O O O O O O O O
+BOS we study in atlanta EOS	O O O O B_inform_or_city O
+BOS myself and my 6 best friends EOS	O O O O B_inform_n_adults O O O
+BOS together we have 17900 EOS	O O O O B_inform_budget O
+BOS how's the ratings of this hotel EOS	O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS actually we were also think of dublin wondering if there's anything better available there EOS	O O O O O O O B_inform_dst_city O O O O O O O O
+BOS okay we would definitely prefer curitiba then we'll take it :slightly_smiling_face: EOS	O O O O O O B_switch_frame_dst_city O O O O O O
+BOS thx :heart: EOS	O O O O
+BOS i need to get to osaka from dallas so i can find mewtwo he's the last one i need to find and i heard he was spotted in osaka EOS	O O O O O O B_inform_dst_city O B_inform_or_city O O O O O O O O O O O O O O O O O O O O O O
+BOS those dates are great for my schedule can you tell me more about the hotel tho EOS	O O O O O O O O O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O
+BOS good good i also heard mewtwo was spotted somewhere in phoenix can you check there for me too EOS	O O O O O O O O O O O B_inform_dst_city O O O O O O O O
+BOS okay what are they close to EOS	O O O O O O O O
+BOS what is the other one close to EOS	O O O O O O O O O
+BOS what are the hotels guest ratings EOS	O O O O O O O O
+BOS okay well i think i like the hotel that is close to the museum and airport anyway can you tell me more about it EOS	O O O O O O O O O O O O O O B_switch_frame_museum O B_switch_frame_airport O O O O O O O O O
+BOS great i like the first package you told me about in osaka i would like to book it please EOS	O O O O O O O O O O O O B_switch_frame_dst_city O O O O O O O O
+BOS 2 adults and how much is business EOS	O B_inform_n_adults O O O O O B_inform_seat O
+BOS okay book it EOS	O O O B_switch_frame_ref_anaphora O
+BOS thanks EOS	O B_thankyou O
+BOS i want to go to cancun from dallas EOS	O O O O O O B_inform_dst_city O B_inform_or_city O
+BOS i am going alone and my budget is unlimited but i would like to travel between the 17th and 30th EOS	O B_inform_budget O O B_inform_n_adults O O O O O O O O O O O O O B_inform_str_date O B_inform_end_date O
+BOS what are the dates for the 9 day package EOS	O O O O O O O B_switch_frame_duration I_switch_frame_duration O O
+BOS yes EOS	O B_affirm O
+BOS thanks EOS	O B_thankyou O
+BOS hey never done this before but i'll give it a try i finally have some time off work and i want to see if you can help me book my vacation EOS	O B_greeting O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS i am in tijuana send me anywhere nice EOS	O B_inform_dst_city O O B_inform_or_city O O O O O
+BOS 12 days i can leave on september 18th or shortly thereafter :grinning: EOS	O B_inform_max_duration I_inform_max_duration O O O O B_inform_str_date I_inform_str_date O O O O O
+BOS nah i will take what appeals to me the most EOS	O B_inform_budget O O O O O O O O O O
+BOS dallas sounds like fun whatcha got there EOS	O B_switch_frame_dst_city O O O O O O O
+BOS nothing on the beach EOS	O O O O B_request_beach O
+BOS okay tell me what you have in barcelona please EOS	O O O O O O O O B_switch_frame_dst_city O O
+BOS what's it close to EOS	O O B_switch_frame_ref_anaphora O O O
+BOS out of all the destinations that you gave me do any of them have a hotel on the beach EOS	O O O O O O O O O O O O O O O O O O O B_inform_beach O
+BOS that one sounds good what else comes with the package EOS	O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O O O O O O O O O
+BOS when would i depart and return EOS	O O O O O O O O
+BOS no departures to this hotel before the 27th EOS	O O O O O O B_inform_str_date I_inform_str_date I_inform_str_date O
+BOS how much would that cost me EOS	O O O O B_switch_frame_ref_anaphora O O O
+BOS how about economy business is a waste of money EOS	O O O B_inform_seat B_negate_seat O O O O O O
+BOS that sound pretty good for 12 days can i book that one please EOS	O O O O O O B_switch_frame_duration I_switch_frame_duration O O O O O O O
+BOS oh yeah how much is the 12 day package that leaves the next day EOS	O O O O O O O B_switch_frame_duration I_switch_frame_duration O O O O O O O
+BOS so this one is cheaper than the 8 day package even though it is at the same hotel EOS	O O B_request_compare_ref_anaphora I_request_compare_ref_anaphora O B_request_compare_price O O B_request_compare_duration I_request_compare_duration O O O O O O O O O O
+BOS weeeelllll this is a no brainer i 'll just leave the next day and save a whole lotta money can you book this for me right away so i don't lose it EOS	O O O O O B_negate O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS hi there i need to go to north vancouver please EOS	O O O O O O O O B_inform_dst_city I_inform_dst_city O O
+BOS i need to go to montreal for under 3800 from valencia could you help me EOS	O O O O O O B_inform_dst_city O O B_inform_budget O B_inform_or_city O O O O O
+BOS just me i need to go between friday september 30 and tuesday october 4 though EOS	O B_inform_n_adults I_inform_n_adults O O O O O O B_inform_str_date I_inform_str_date O O B_inform_end_date I_inform_end_date O O
+BOS september 30 to october 4 EOS	O B_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date O
+BOS oh that's a shame i'm out of here then goodbye EOS	O O O O O O O O O O B_goodbye O
+BOS hello i'd like to go to kyoto EOS	O O O O O O O B_inform_dst_city O
+BOS toronto i'd like to go sometime between september 17 and october 7 please EOS	O B_inform_or_city O O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date O O
+BOS yes preferably not more than 4300 please EOS	O O O O O O B_inform_budget O O
+BOS how much would that cost EOS	O O O O B_switch_frame_ref_anaphora O O
+BOS and what are the dates for this trip EOS	O O O O O O O O O O
+BOS that sounds pretty good but do you have anything at a nicer more upscale hotel EOS	O O O O O O O O O O O O B_inform_category I_inform_category I_inform_category O O
+BOS no that's fine i'll take this package EOS	O O O O O O B_switch_frame_ref_anaphora I_switch_frame_ref_anaphora O
+BOS great thanks EOS	O O B_thankyou O
+BOS hey i'd love to bring my 4 kids to go see their mom who's currently working in washington could you find me a flight EOS	O O O O O O O B_inform_n_children O O O O O O O O O O B_inform_dst_city O O O O O O O
+BOS yes please EOS	O B_affirm O O
+BOS we live in boston EOS	O O O O B_inform_or_city O
+BOS nah we're flexible as long as i can take my kids to go see their mother EOS	O B_inform_budget O O O O O O O O O O O O O O O O
+BOS what it's going to be difficult dragging 4 kids around but sure i guess we can try phoenix instead of washington EOS	O O O O O O O O O O O O O O O O O O B_inform_dst_city O O O O
+BOS i guess the longer packages would be great thanks EOS	O O O O B_inform_min_duration O O O O O O
+BOS how much would that cost EOS	O O O O B_switch_frame_ref_anaphora O O
+BOS i'm wondering for both please EOS	O O O O O O O
+BOS i'll fly business please the kids will have a lot of fun with that EOS	O O O B_switch_frame_seat O O O O O O O O O O O O
+BOS thanks EOS	O B_thankyou O
+BOS oh man i need a holiday EOS	O O O O O O O O
+BOS hmm somewhere in asia sounds nice i'm thinking fukuoka EOS	O O O O O O O O O B_inform_dst_city O
+BOS cordoba EOS	O B_inform_or_city O
+BOS not really but i only have monday september 26 to october 14 off EOS	O B_inform_budget O O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date O O
+BOS yeah just me EOS	O O B_affirm_n_adults I_affirm_n_adults O
+BOS sure EOS	O O O
+BOS what about ulsan i hear it's nice there EOS	O O O B_inform_dst_city O O O O O O
+BOS ooh that 8 day package in ulsan sounds nice how much would that cost EOS	O O O B_switch_frame_duration I_switch_frame_duration O O B_switch_frame_dst_city O O O O O O O O
+BOS may i ask how much the 14 day package in fukuoka is please EOS	O O O O O O O B_switch_frame_duration I_switch_frame_duration O O B_switch_frame_dst_city O O O
+BOS whoa that's quite a difference i'll take the 14 day package in fukuoka please economy EOS	O O O O O O O O O B_switch_frame_duration I_switch_frame_duration O O B_switch_frame_dst_city O B_switch_frame_seat O
+BOS thanks EOS	O B_thankyou O
+BOS my friends and i would like to go belo horizonte please EOS	O O O O O O O O O B_inform_dst_city I_inform_dst_city O O
+BOS we'll be 10 people coming from guadalajara if you could find us something really cheap that would be great EOS	O O O B_inform_n_adults O O O B_inform_or_city O O O O O O O B_inform_budget O O O O O
+BOS yeah 1800 dollars EOS	O O B_inform_budget I_inform_budget O
+BOS what seriously that can't be possible can you double-check EOS	O O O O O O O O O O O
+BOS aw that's a shame a lot of people will be disappointed thanks anyways EOS	O O O O O O O O O O O O B_thankyou O O
+BOS hey i'd like to bring my family on a trip to kobe EOS	O O O O O O O O O O O O B_inform_dst_city O
+BOS it would be 4 adults and 1 child we'll be coming from hiroshima EOS	O O O O B_inform_n_adults O O B_inform_n_children O O O O O B_inform_or_city O
+BOS 4400 is our goal budget can you find something good for us EOS	O B_inform_budget O O O O O O O O O O O O
+BOS wow that sounds amazing how much would it cost us in the end for both business and economy EOS	O O O O O O O O O O O O O O O O O O O O
+BOS it sounds great i'll take it but i think i'd like economy please EOS	O O O O O O O O O O O O B_switch_frame_seat O O
+BOS perfect thanks EOS	O O B_thankyou O
+BOS hi there i need to go to miami EOS	O O O O O O O O B_inform_dst_city O
+BOS queenstown it'll be 9 adults and 2 kids EOS	O B_inform_or_city O O B_inform_n_adults O O B_inform_n_children O O
+BOS what no miami is the place i need to get to there's amazing pastry recipes at stake are you sure about this EOS	O O O B_inform_dst_city O O O O O O O O O O O O O O O O O O O O
+BOS no there's too many of us i think i'm going to have to use another service goodbye EOS	O B_negate O O O O O O O O O O O O O O O B_goodbye O
+BOS i need a break badly can i please book a trip to sao paulo where hopefully no one will know me EOS	O O O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O O O O O O O O
+BOS denver EOS	O B_inform_or_city O
+BOS nooooo but who i'm going with is a secret EOS	O O O O O O O O O O O
+BOS yes two of us just so you know i should be back by sept 15 EOS	O O B_affirm_n_adults O O O O O O O O O O O B_inform_end_date I_inform_end_date O
+BOS money is no object and the sooner the better EOS	O B_inform_budget O O O O O B_inform_str_date O O O
+BOS can you get us to punta cana then EOS	O O O O O O B_inform_dst_city I_inform_dst_city O O
+BOS fine we will leave from pittsburgh then find us something please EOS	O O O O O O B_inform_or_city O O O O O O
+BOS you suck EOS	O O O O
+BOS goodbye EOS	O B_goodbye O
+BOS i need to get to boston please it's an emergency EOS	O O O O O O B_inform_dst_city O O O O O
+BOS i'm in belo horizonte i need to leave on sunday september 18 or later EOS	O O O B_inform_or_city I_inform_or_city O O O O O B_inform_str_date I_inform_str_date I_inform_str_date O O O
+BOS yeah just me i've just spent all this money backpacking around south america so i've only got 2800 left can you find something with that EOS	O O B_inform_n_adults I_inform_n_adults O O O O O O O O O O O O O O B_inform_budget O O O O O O O O
+BOS yeah how much does that cost EOS	O O O O O B_switch_frame_ref_anaphora O O
+BOS it sounds good do you have any other good packages though EOS	O O O O O O O O O O O O O
+BOS oh no the first option sounds the best but when does it leave EOS	O O B_negate O O O O O O O O O O O O
+BOS okay that sounds really good i'll take it EOS	O O O O O O O O O O
+BOS awesome thanks EOS	O O B_thankyou O
+BOS hi there my team and i are thinking of going to monterrey please EOS	O O O O O O O O O O O O B_inform_dst_city O O
+BOS we all work together in kabul EOS	O O O O O O B_inform_or_city O
+BOS oh really that's too bad i guess we'll have to look elsewhere then thank you for your services EOS	O O O O O O O O O O O O O O B_thankyou O O O O O
+BOS i sure do this will be my first time travelling by myself so i am nervous i really need you to help me find the right package EOS	O O O O O O O O O O O B_inform_n_adults I_inform_n_adults O O O O O O O O O O O O O O O O
+BOS chicago i live in cleveland EOS	O B_inform_dst_city O O O B_inform_or_city O
+BOS yes - 2700 i need to be thrifty with it EOS	O O O B_inform_budget O O O O O O O O
+BOS i can only go between sept 13 and sept 23 EOS	O O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date I_inform_end_date O
+BOS how much for this 9 day package EOS	O O O O O B_switch_frame_duration I_switch_frame_duration O O
+BOS do you have a 9 day package in kyoto and can you tell me about it if you do EOS	O O O O O B_inform_max_duration I_inform_max_duration O O B_inform_dst_city O O O O O O O O O O O
+BOS what type of hotel is this EOS	O O O O O O B_switch_frame_ref_anaphora O
+BOS guest rating EOS	O O O O
+BOS can you check hamburg for me 9 day packages EOS	O O O O B_inform_dst_city O O B_inform_max_duration I_inform_max_duration O O
+BOS does it meet my dates EOS	O O O O O O O
+BOS seems like the 9 day package in chicago is the best value and it doesn't take me too far away from home can you tell me the exact departure and return dates so i can let my boss know EOS	O O O O B_switch_frame_duration I_switch_frame_duration O O B_switch_frame_dst_city O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS definitely economy i'm a poor intern EOS	O O B_switch_frame_seat O O O O O
+BOS awesome thanks EOS	O O B_thankyou O
+BOS hey i need to get out of here just need some space to myself EOS	O B_greeting O O O O O O O O O O O O O O
+BOS seattle i just need a break from all the performing all those cameras my best friend will be coming with me we're thinking of going to minneapolis EOS	O B_inform_or_city O O O O O O O O O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS 2 5 stars are you kidding me do you think i'm a 2 5 star kind of person i think i deserve much better than that give me the best you got EOS	O B_negate_category I_negate_category O O O O O O O O O O O O O O O O O O O O O O O B_negate_ref_anaphora O O O B_inform_category O O O
+BOS let's try punta cana then there's got to be something better there EOS	O O O B_inform_dst_city I_inform_dst_city O O O O O O O O O
+BOS 3 5 only i guess if that's the best you've got i also need to get back by october 1st at the latest for my gig EOS	O B_switch_frame_category I_switch_frame_category O O O O O O O O O O O O O O O O B_inform_end_date I_inform_end_date O O O O O O O
+BOS that sounds pretty good but do you have anything longer EOS	O O O O O O O O O O B_inform_min_duration O
+BOS fine if that's the best you got i'll take it EOS	O O O O O O O O O O B_switch_frame_ref_anaphora O
+BOS cool EOS	O O O
+BOS my friends and i would love to get to phoenix please EOS	O O O O O O O O O O B_inform_dst_city O O
+BOS it'll be 3 of us from tofino EOS	O O O B_inform_n_adults O O O B_inform_or_city O
+BOS oh really i guess we can leave from beijing then EOS	O O O O O O O O O B_inform_or_city O O
+BOS we can leave from beijing though right EOS	O O O O O B_inform_or_city O O O
+BOS i guess i'll have to go elsewhere to book our trip EOS	O O O O O O O O O O O O O
+BOS that's fine we'll look somewhere else bye EOS	O O O O O O O B_goodbye O
+BOS i'd love to go to minneapolis sometime EOS	O O O O O O B_inform_dst_city O O
+BOS goiania i only have 3300 at the most though EOS	O B_inform_or_city O O O B_inform_budget O O O O O
+BOS whoa that all sounds nice but i want to learn more about other trips what kind of package can i get if i decide to go to cancun EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS wow the cancun 10 day package sounds amazing i want to take that package so badly EOS	O O O B_switch_frame_dst_city B_switch_frame_duration I_switch_frame_duration O O O O O O O O O O O O
+BOS no no i'm not ready to book it i want to check out toronto first please EOS	O O O O O O O O O O O O O O B_inform_dst_city O O O
+BOS that sounds good but not as good i'm just going to think about it and get back to you i don't really have any days off at the moment thanks for all your help bye EOS	O B_negate_ref_anaphora O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+BOS hello i need your help my wife is super strict and she's put me in charge of the family vacation we have 4000 to spend find me something good EOS	O O O O O O O O O O O O O O O O O O O O O O O B_inform_budget O O O O O O O
+BOS 2 adults and one child EOS	O B_inform_n_adults O O B_inform_n_children O O
+BOS let's look at hiroshima first EOS	O O O O B_inform_dst_city O O
+BOS minneapolis EOS	O B_inform_or_city O
+BOS sept 20 to oct4 EOS	O B_inform_str_date I_inform_str_date O B_inform_end_date O
+BOS what of we add 1000 EOS	O O O O B_inform_budget I_inform_budget O
+BOS okay let's look at belem for under 4000 EOS	O O O O O B_inform_dst_city O O B_inform_budget O
+BOS :pray: st petersburg EOS	O O B_inform_dst_city I_inform_dst_city O
+BOS seriously EOS	O O O
+BOS i will go somewhere else thanks anyway EOS	O O O O O O B_thankyou O O
+BOS hi there i'd like to take my grandkids on vacation to brasilia EOS	O O O O O O O O O O O O B_inform_dst_city O
+BOS we'd like to go to brasilia please 4 kids 1 adult EOS	O O O O O O B_inform_dst_city O B_inform_n_children O B_inform_n_adults O O
+BOS we're from punta cana i'd like to bring them while they're still out of school sometime between wednesday september 14 and tuesday october 4th would be great EOS	O O O B_inform_or_city I_inform_or_city O O O O O O O O O O O O O O B_inform_str_date I_inform_str_date O O B_inform_end_date I_inform_end_date O O O O
+BOS oh i guess alexandria would be good we've only got 4900 dollars though keep in mind EOS	O O O O B_inform_dst_city O O O O O O B_inform_budget O O O O O O
+BOS that sounds good but do you have any longer packages i want the kids to have as much fun as possible EOS	O O O O O O O O O B_inform_min_duration O O O O O O O O O O O O O
+BOS well we could also consider sao paulo EOS	O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS no i think the 3 star hotel in alexandria sounds pretty good thank you could you please book it for us EOS	O O O O O B_switch_frame_category O O O B_switch_frame_dst_city O O O O O O O O O O O O O
+BOS thank you EOS	O B_thankyou O O
+BOS i am one adult travelling to maceio do you have any flights out of osaka EOS	O O O B_inform_n_adults O O O B_inform_dst_city O O O O O O O B_inform_or_city O
+BOS this is a business trip i have a budget of 6900 EOS	O O O O O O O O O O O B_inform_budget O
+BOS 12 to 30 EOS	O B_inform_str_date O B_inform_end_date O
+BOS yes like i said "i am one adult" i am definitely getting my secretary to do this next time now find me something cause time =  EOS	O O O O O O O B_affirm_n_adults O O O O O O O O O O O O O O O O O O O O
+BOS who are you the grand inquisitor get me the best for my money this is a business expense EOS	O O O O O O O O O O B_inform_category O O O O O O O O O
+BOS hey i need to get to san juan to bring a recipe back to my hometown of paris it'll be me and my 4 kids can you help me EOS	O O O O O O O B_inform_dst_city I_inform_dst_city O O O O O O O B_inform_n_adults O B_inform_or_city O O O O O B_inform_n_children O O O O O O
+BOS how much does it cost i can only spend a total of 7600 EOS	O O O O B_switch_frame_ref_anaphora O O O O O O O O B_inform_budget O
+BOS is there a better package that suits my budget thanks EOS	O O O O B_inform_category O O O O B_inform_budget O O
+BOS it doesn't sound bad but if i add another 1500 to my budget do you think you can find something better for me EOS	O O O O O O O O B_inform_budget I_inform_budget I_inform_budget O O O O O O O O O O O O O O
+BOS i guess if it's the best you can do then i'll take it EOS	O O O O B_switch_frame_ref_anaphora O O O O O O O O O O
+BOS wow that's amazing i think we'll take that one EOS	O O B_switch_frame_ref_anaphora O O O O O O I_switch_frame_ref_anaphora O
+BOS fantastic thank you EOS	O O B_thankyou O O
+BOS hi i am very excited EOS	O B_greeting O O O O O
+BOS help me find a flight and a hotel in chicago EOS	O O O O O O O O O O B_inform_dst_city O
+BOS fortaleza EOS	O B_inform_or_city O
+BOS 2600 but i really don't want to spend it all EOS	O B_inform_budget O O O O O O O O O O
+BOS i can only do my internship between sept 13 and 23 EOS	O O O O O O O O B_inform_str_date I_inform_str_date O B_inform_end_date O
+BOS yesssss for the very first time EOS	O O O O O O O O
+BOS that sounds pretty good to me but since i am new at this and travelling alone for the first time i need to look at all my internship options what about flights and hotels to detroit EOS	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_inform_dst_city O
+BOS what about in santo domingo EOS	O O O O B_inform_dst_city I_inform_dst_city O
+BOS it really would be better if i was near the university do you have anything in detroit near the university EOS	O O O O O O O O O O O B_inform_university O O O O O B_inform_dst_city O O O O
+BOS that decides it then i'll take the one in chicago how do i book it EOS	O O O O O O O O O O B_switch_frame_dst_city O O O O O O
+BOS definitely economy EOS	O O B_inform_seat O
+BOS thank you :hugging_face: EOS	O B_thankyou O O O
+BOS i'm good thanks i have an important business meeting in san juan EOS	O O O O O O O O O O O B_inform_dst_city I_inform_dst_city O
+BOS anytime soon would be good i'll be flying from buenos aires EOS	O B_inform_str_date O O O O O O O O B_inform_or_city I_inform_or_city O
+BOS that sounds really good but how much does it cost EOS	O O O O O O O O O B_switch_frame_ref_anaphora O O
+BOS that's even better than i expected sounds like a fantastic deal i will take it and at business class please EOS	O O O O O O O O O O O O O O O O O O B_switch_frame_seat O O O
+BOS thank you very much EOS	O B_thankyou O O O O

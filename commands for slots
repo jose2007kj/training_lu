@@ -1,1 +1,7 @@
 python SequenceTagger.py --train train.iob --sgdtype adam --arch blstm --iter_per_epoch 100 --record_epoch 10 --dropout True --dropout_ratio 0.25 --hidden_size 50 --embedding_size 50 --test train.iob
+
+python SequenceTagger.py --train corrected.iob --sgdtype adam --arch blstm --iter_per_epoch 100 --record_epoch 10 --dropout True --dropout_ratio 0.25 --hidden_size 50 --embedding_size 50 --test test.iob
+
+python SequenceTagger.py --train only_iob_kj.iob --sgdtype adam --arch blstm --iter_per_epoch 100 --record_epoch 10 --dropout True --dropout_ratio 0.25 --hidden_size 50 --embedding_size 50 --test only_iob_kj1.iob
+
+python SequenceTagger.py --train history_train.iob --sgdtype adam --arch blstm --iter_per_epoch 100 --record_epoch 10 --dropout True --dropout_ratio 0.25 --hidden_size 50 --embedding_size 50 --test history_test.iob
